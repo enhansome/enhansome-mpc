@@ -119,7 +119,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T16:47:54Z",
+            "last_commit": "2026-08-15T11:23:05Z",
             "owner": "zama-ai",
             "repo": "kms",
             "stars": 72
@@ -133,10 +133,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T11:11:00Z",
+            "last_commit": "2026-08-15T16:38:47Z",
             "owner": "Stoffel-Labs",
             "repo": "stoffel",
-            "stars": 66
+            "stars": 68
           }
         },
         {
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:02:38.112Z",
+    "last_updated": "2026-08-15T22:00:45.451Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
     "enhanced_repository": "enhansome/enhansome-mpc",
