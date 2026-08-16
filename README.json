@@ -136,7 +136,7 @@
             "last_commit": "2026-08-15T16:38:47Z",
             "owner": "Stoffel-Labs",
             "repo": "stoffel",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:00:45.451Z",
+    "last_updated": "2026-08-16T21:59:55.710Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
     "enhanced_repository": "enhansome/enhansome-mpc",
