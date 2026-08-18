@@ -24,7 +24,7 @@
             "last_commit": "2026-08-17T05:01:07Z",
             "owner": "data61",
             "repo": "MP-SPDZ",
-            "stars": 1174
+            "stars": 1175
           }
         },
         {
@@ -64,7 +64,7 @@
             "archived": false,
             "language": "Rust",
             "last_commit": "2026-07-12T18:20:15Z",
-            "owner": "privacy-ethereum",
+            "owner": "ethereum",
             "repo": "mpz",
             "stars": 299
           }
@@ -119,7 +119,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T21:29:21Z",
+            "last_commit": "2026-08-18T17:27:49Z",
             "owner": "zama-ai",
             "repo": "kms",
             "stars": 72
@@ -133,7 +133,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T15:08:00Z",
+            "last_commit": "2026-08-18T15:39:19Z",
             "owner": "Stoffel-Labs",
             "repo": "stoffel",
             "stars": 69
@@ -145,7 +145,7 @@
           "description": "TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports summon circuits and emp-wasm-backend for malicious secure 2PC.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "TypeScript",
             "last_commit": "2025-07-22T01:23:51Z",
             "owner": "privacy-ethereum",
@@ -541,7 +541,7 @@
           "description": "A TypeScript-like language for compiling bristol circuits for MPC. Also available as an npm module.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Rust",
             "last_commit": "2025-07-09T00:59:13Z",
             "owner": "privacy-ethereum",
@@ -622,7 +622,7 @@
             "last_commit": "2026-07-17T11:38:44Z",
             "owner": "encryptogroup",
             "repo": "ABY",
-            "stars": 495
+            "stars": 496
           }
         },
         {
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:03:09.973Z",
+    "last_updated": "2026-08-18T22:01:41.861Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
     "enhanced_repository": "enhansome/enhansome-mpc",
