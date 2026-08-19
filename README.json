@@ -1,913 +1,966 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Theory"
-    },
-    {
       "description": "Here I tried to reference the most recent article found on specific software since enumerating all changes including the original paper is too cumbersome.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MP-SPDZ",
+              "description": "MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | documentation | eprint: 2020/512",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152511277,
+                "language": "C++",
+                "last_commit": "2026-08-17T05:01:07Z",
+                "owner": "data61",
+                "repo": "MP-SPDZ",
+                "stars": 1175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swanky",
+              "description": "A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222743410,
+                "language": "Sieve",
+                "last_commit": "2026-08-06T20:01:38Z",
+                "owner": "GaloisInc",
+                "repo": "swanky",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SecretFlow-SPU",
+              "description": "A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | USENIX ATC'23.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509708254,
+                "language": "C++",
+                "last_commit": "2026-08-17T09:55:25Z",
+                "owner": "secretflow",
+                "repo": "spu",
+                "stars": 324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MPZ",
+              "description": "A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650666428,
+                "language": "Rust",
+                "last_commit": "2026-07-12T18:20:15Z",
+                "owner": "ethereum",
+                "repo": "mpz",
+                "stars": 298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JIFF",
+              "description": "JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92989930,
+                "language": "JavaScript",
+                "last_commit": "2026-02-13T15:04:28Z",
+                "owner": "multiparty",
+                "repo": "jiff",
+                "stars": 274
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABY3",
+              "description": "3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | CCS'18, 2019/518.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127166742,
+                "language": "TeX",
+                "last_commit": "2026-02-27T05:53:47Z",
+                "owner": "ladnir",
+                "repo": "aby3",
+                "stars": 211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MPC",
+              "description": "Go-based secure two-party computation framework combining a garbled-circuit runtime, the MPCL compiler, circuit tooling, OT primitives, and a WIP BMR implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174100209,
+                "language": "Go",
+                "last_commit": "2026-06-16T03:49:10Z",
+                "owner": "markkurossi",
+                "repo": "mpc",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zama KMS",
+              "description": "Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | WAHC'23, Spec",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1013287098,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:32:41Z",
+                "owner": "zama-ai",
+                "repo": "kms",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stoffel",
+              "description": "A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 898247545,
+                "language": "Rust",
+                "last_commit": "2026-08-18T15:39:19Z",
+                "owner": "Stoffel-Labs",
+                "repo": "stoffel",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MPC Framework",
+              "description": "TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports summon circuits and emp-wasm-backend for malicious secure 2PC.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 838200920,
+                "language": "TypeScript",
+                "last_commit": "2025-07-22T01:23:51Z",
+                "owner": "privacy-ethereum",
+                "repo": "mpc-framework",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HPMPC",
+              "description": "HPMPC implements multiple MPC protocols and provides a high-level C++ interface to define functions and use cases. Out of the box, the framework supports computation in the boolean and arithmetic domain, mixed circuits, and fixed point arithmetic. Neural network models can be imported from PyTorch as part of PIGEON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658841760,
+                "language": "C",
+                "last_commit": "2026-07-25T00:13:12Z",
+                "owner": "chart21",
+                "repo": "hpmpc",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ORQ",
+              "description": "General framework for relational analytics written in C++; includes fast sorting implementations and supports multiple protocols. | SOSP'25",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1028685079,
+                "language": "C++",
+                "last_commit": "2026-06-19T20:07:11Z",
+                "owner": "CASP-Systems-BU",
+                "repo": "orq",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Velox",
+              "description": "Post-Quantum asynchronous MPC implemented in Rust. Offers Fairness against $t<\\frac{n}{3}$ malicious parties. Scales to $n=100$ parties in a geo-distributed network. | eprint: 2025/1630.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 935787441,
+                "language": "Rust",
+                "last_commit": "2026-03-11T07:57:08Z",
+                "owner": "akhilsb",
+                "repo": "Velox-MPC",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LibOTe",
+              "description": "Library with various OT Extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73007955,
+                "language": "C++",
+                "last_commit": "2026-08-10T18:58:05Z",
+                "owner": "osu-crypto",
+                "repo": "libOTe",
+                "stars": 503
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCAPI",
+              "description": "Various secure computation API's carefully documented with a clean code design in mind. | 2012/629.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53246303,
+                "language": "C++",
+                "last_commit": "2023-07-20T11:01:17Z",
+                "owner": "cryptobiu",
+                "repo": "libscapi",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TSS",
+              "description": "A pure-Rust implementation of various threshold secret sharing schemes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62790774,
+                "language": "Rust",
+                "last_commit": "2018-10-28T23:17:30Z",
+                "owner": "snipsco",
+                "repo": "rust-threshold-secret-sharing",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OT Extension",
+              "description": "OT Extension secure against malicious adversaries. | 2015/061.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12376902,
+                "language": "C++",
+                "last_commit": "2020-11-13T10:06:08Z",
+                "owner": "encryptogroup",
+                "repo": "OTExtension",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distributed Vector-OLE",
+              "description": "A two-party generator for Vector-OLE correlations. CCS'19.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209288836,
+                "language": "C++",
+                "last_commit": "2021-01-17T15:13:06Z",
+                "owner": "schoppmp",
+                "repo": "distributed-vector-ole",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "APRICOT",
+              "description": "OT Extension secure against malicious adversaries. | 2015/546.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 50840214,
+                "language": "C++",
+                "last_commit": "2016-11-17T14:21:50Z",
+                "owner": "bristolcrypto",
+                "repo": "apricot",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SplitCommit",
+              "description": "Additively homomorphic commitment scheme. | 2015/694.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78489820,
+                "language": "C++",
+                "last_commit": "2017-05-22T07:47:08Z",
+                "owner": "AarhusCrypto",
+                "repo": "SplitCommit",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aes-prng",
+              "description": "Rust pseudo-random number generator based on AES.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496169187,
+                "language": "Rust",
+                "last_commit": "2025-05-18T08:36:58Z",
+                "owner": "tf-encrypted",
+                "repo": "aes-prng",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Primitives"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blockchain-Crypto-MPC",
+              "description": "Multiparty ECDSA signing in the cryptocurrency setting, includes an optimized GC library, OT, and more. | CCS'18.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154275339,
+                "language": "C",
+                "last_commit": "2022-07-28T07:29:15Z",
+                "owner": "unboundsecurity",
+                "repo": "blockchain-crypto-mpc",
+                "stars": 479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fireblocks MPC",
+              "description": "Multiparty ECDSA and EdDSA | eprint 2020/492.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 673830016,
+                "language": "C++",
+                "last_commit": "2026-07-30T14:27:41Z",
+                "owner": "fireblocks",
+                "repo": "mpc-lib",
+                "stars": 268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSI",
+              "description": "Private Set Intersection. | 2014/447.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34384666,
+                "language": "C++",
+                "last_commit": "2025-06-27T20:49:12Z",
+                "owner": "encryptogroup",
+                "repo": "PSI",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LibPSI",
+              "description": "Various protocols for performing private set intersection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60737562,
+                "language": "C++",
+                "last_commit": "2024-12-23T20:10:34Z",
+                "owner": "osu-crypto",
+                "repo": "libPSI",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BaRK-OPRF",
+              "description": "Private Set Intersection. | 2016/799.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64349030,
+                "language": "C++",
+                "last_commit": "2022-10-29T17:22:27Z",
+                "owner": "osu-crypto",
+                "repo": "BaRK-OPRF",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prio",
+              "description": "Private aggregation with SNIPs (secret-shared non-interactive proofs). | NSDI'17.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 138322092,
+                "language": "Assembly",
+                "last_commit": "2020-11-19T11:40:09Z",
+                "owner": "mozilla",
+                "repo": "libprio",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linreg",
+              "description": "Privacy preserving linear regression. | 2016/892.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 65687462,
+                "language": "Python",
+                "last_commit": "2019-04-16T12:39:44Z",
+                "owner": "schoppmp",
+                "repo": "linreg-mpc",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Geppetri",
+              "description": "Verifiable 3PC. | 2017/013.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84540648,
+                "language": "C++",
+                "last_commit": "2017-12-07T12:40:23Z",
+                "owner": "meilof",
+                "repo": "geppetri",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ROOM",
+              "description": "Read-Only Oblivious Maps and applications to secure machine learning on sparse data. | CCS'19.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195227913,
+                "language": "C++",
+                "last_commit": "2020-06-08T15:17:03Z",
+                "owner": "schoppmp",
+                "repo": "room-framework",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Protocols"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MPC-SoK",
+              "description": "Build environments for many MPC frameworks using Docker containers. | S&P19.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137266237,
+                "language": "C++",
+                "last_commit": "2024-12-12T19:04:09Z",
+                "owner": "MPC-SoK",
+                "repo": "frameworks",
+                "stars": 520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tiny-Garble",
+              "description": "Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits. | S&P'15.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23408534,
+                "language": "C++",
+                "last_commit": "2026-08-19T01:14:38Z",
+                "owner": "esonghori",
+                "repo": "TinyGarble",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conclave",
+              "description": "Big Data query compiler that combines cleartext processing with Spark and MPC protocols. | EuroSys19.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119094028,
+                "language": "Python",
+                "last_commit": "2020-08-18T13:06:25Z",
+                "owner": "multiparty",
+                "repo": "conclave",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Circom 2 Arithc",
+              "description": "Compiles bristol circuits for MPC from circom code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 725579016,
+                "language": "Rust",
+                "last_commit": "2024-09-12T16:13:45Z",
+                "owner": "namnc",
+                "repo": "circom-2-arithc",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Garble-Lang",
+              "description": "Programming language for MPC with Garbled Circuits. Garble is statically typed, low-level, purely functional and uses a syntax heavily inspired by Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 447332092,
+                "language": "Rust",
+                "last_commit": "2026-04-22T22:58:48Z",
+                "owner": "sine-fdn",
+                "repo": "garble-lang",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UC Compiler",
+              "description": "Valiant's Universal Circuit Compiler. | 2016/093.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50654088,
+                "language": "C++",
+                "last_commit": "2021-01-07T13:02:45Z",
+                "owner": "encryptogroup",
+                "repo": "UC",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Summon",
+              "description": "A TypeScript-like language for compiling bristol circuits for MPC. Also available as an npm module.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 829808230,
+                "language": "Rust",
+                "last_commit": "2025-07-09T00:59:13Z",
+                "owner": "privacy-ethereum",
+                "repo": "summon",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CipherCompute",
+              "description": "Create generic MPC programs using Rust. Works on top of the SCALE engine. Enterprise software that provides UIs for participants handshaking, computations approval, datasources connections, auditing etc...",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348761205,
+                "language": null,
+                "last_commit": "2021-06-29T12:05:35Z",
+                "owner": "Cosmian",
+                "repo": "CipherCompute",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Private Benchmarking",
+              "description": "Provides an End to End platform to perform Private Benchmarking using MPC and GPU-based Confidential Computing on LLMs/CNNs/Vision Models using EzPC framework. | eprint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 793378499,
+                "language": "Python",
+                "last_commit": "2026-04-22T03:24:13Z",
+                "owner": "microsoft",
+                "repo": "private-benchmarking",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CrypTen",
+              "description": "MPC with secret sharing; secure against semi-honest adversary; focused on building PyTorch applications. | documentation: link",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 202443088,
+                "language": "Python",
+                "last_commit": "2024-11-23T22:25:52Z",
+                "owner": "facebookresearch",
+                "repo": "CrypTen",
+                "stars": 1649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rosetta",
+              "description": "3PC with secret sharing; secure against semi-honest adversaries; focused on reusing the APIs of TensorFlow and allowing to transfer traditional TensorFlow codes into a privacy-preserving manner with minimal changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254110428,
+                "language": "C++",
+                "last_commit": "2022-04-26T02:21:22Z",
+                "owner": "LatticeX-Foundation",
+                "repo": "Rosetta",
+                "stars": 550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ABY",
+              "description": "2PC with secret sharing and garbled circuits; secure against semi-honest adversaries. | NDSS'15.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27261743,
+                "language": "C++",
+                "last_commit": "2026-07-17T11:38:44Z",
+                "owner": "encryptogroup",
+                "repo": "ABY",
+                "stars": 496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EzPC",
+              "description": "Offers a suite of tools for secure machine learning using semi-honest MPC protocols. It includes a language for secure machine learning, compilers for TensorFlow/Onnx to various MPC protocols, and frameworks for training and inference on deep neural networks. It provides an end-to-end solution for secure machine learning. | documentation: link. End-to-End Platform: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170995719,
+                "language": "C++",
+                "last_commit": "2026-04-28T02:47:56Z",
+                "owner": "mpc-msri",
+                "repo": "EzPC",
+                "stars": 450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tandem",
+              "description": "2PC with garbled circuits written in Rust; secure against malicious adversaries.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 565905050,
+                "language": "Rust",
+                "last_commit": "2025-08-13T10:02:20Z",
+                "owner": "sine-fdn",
+                "repo": "tandem",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HoneyBadgerMPC",
+              "description": "Robust MPC-based confidentiality layer for blockchains with guaranteed output delivery; secure against up to t < n/3 malicious parties.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140328583,
+                "language": "Python",
+                "last_commit": "2021-08-17T17:01:16Z",
+                "owner": "initc3",
+                "repo": "HoneyBadgerMPC",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOTION",
+              "description": "Mixed-Protocol MPC framework supporting full-threshold boolean and arithmetic GMW and BMR; secure against semi-honest adversaries. | eprint: 2020/1137.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295807933,
+                "language": "C++",
+                "last_commit": "2023-07-20T17:44:00Z",
+                "owner": "encryptogroup",
+                "repo": "MOTION",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moose",
+              "description": "3PC with secret sharing; secure against semi-honest adversaries; focused on data processing and machine learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257892054,
+                "language": "Rust",
+                "last_commit": "2024-03-20T16:32:35Z",
+                "owner": "tf-encrypted",
+                "repo": "moose",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SDA",
+              "description": "Secure distributed aggregation of high-dimensional vectors | 2017/643.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81083419,
+                "language": "Rust",
+                "last_commit": "2017-03-31T13:51:43Z",
+                "owner": "snipsco",
+                "repo": "sda",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FairPlayMP",
+              "description": "GMW based multi-party protocol secure against semi-honest adversaries | CCS'08.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3792087,
+                "language": "Java",
+                "last_commit": "2015-02-18T20:19:46Z",
+                "owner": "FaiplayMP",
+                "repo": "FairplayMP",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Myst",
+              "description": "Secure Multiparty Key Generation, Signature and Decryption JavaCard applet and host application | CCS'17.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100109753,
+                "language": "Java",
+                "last_commit": "2025-02-15T17:54:12Z",
+                "owner": "OpenCryptoProject",
+                "repo": "Myst",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fancy-Garbling",
+              "description": "2PC with arithmetic garbled circuits; secure against semi-honest adversaries. | eprint: 2016/969.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66579368,
+                "language": "Rust",
+                "last_commit": "2019-12-19T16:56:56Z",
+                "owner": "GaloisInc",
+                "repo": "fancy-garbling",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libTMCG",
+              "description": "C++ framework with various primitives and tools for implementing multiparty games; secure against semi-honest adversaries. | documentation: link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117454410,
+                "language": "C++",
+                "last_commit": "2021-03-25T16:52:12Z",
+                "owner": "HeikoStamer",
+                "repo": "libtmcg",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Duplo",
+              "description": "2PC with garbled circuits; secure against malicious adversaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86344605,
+                "language": "C++",
+                "last_commit": "2017-06-05T17:49:36Z",
+                "owner": "AarhusCrypto",
+                "repo": "DUPLO",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BatchDualEx",
+              "description": "2PC with garbled circuits; secure against malicious adversaries. | eprint: 2016/632.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60734470,
+                "language": "C++",
+                "last_commit": "2017-07-03T17:12:37Z",
+                "owner": "osu-crypto",
+                "repo": "batchDualEx",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TinyLEGO",
+              "description": "2PC with garbled circuits; secure against malicious adversaries | eprint: 2015/309.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73797911,
+                "language": "C++",
+                "last_commit": "2017-06-04T17:39:55Z",
+                "owner": "AarhusCrypto",
+                "repo": "TinyLEGO",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SPDZ-Yao",
+              "description": "2PC with garbled circuits; high-level language similar to SPDZ; secure against semi-honest adversaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135173065,
+                "language": "C++",
+                "last_commit": "2018-10-11T14:07:19Z",
+                "owner": "mkskeller",
+                "repo": "SPDZ-Yao",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tasty",
+              "description": "2PC with garbled circuits and homomorphic encryption | 2010/365.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32314681,
+                "language": "Python",
+                "last_commit": "2016-11-10T16:32:51Z",
+                "owner": "encryptogroup",
+                "repo": "tasty",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semi-honest BMR",
+              "description": "BMR protocol secure against semi-honest adversaries | 2016/1066.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68796394,
+                "language": "C++",
+                "last_commit": "2017-11-21T09:53:52Z",
+                "owner": "cryptobiu",
+                "repo": "Semi-Honest-BMR",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Obliv-Java",
+              "description": "Faithful reimplementation of Java using Obliv-C. | eprint: 2017/878",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 404635977,
+                "language": "Java",
+                "last_commit": "2021-09-10T14:06:28Z",
+                "owner": "Calctopia-OpenSource",
+                "repo": "jdk10u",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TF Encrypted",
+              "description": "3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501735838,
+                "language": null,
+                "last_commit": "2022-06-09T07:09:24Z",
+                "owner": "mortendahl",
+                "repo": "tf-encrypted",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VIFF",
+              "description": "3+PC with secret sharing; secure against semi-honest adversaries | PhD Dissertation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 498850771,
+                "language": "Python",
+                "last_commit": "2022-06-01T18:45:03Z",
+                "owner": "mgeisler",
+                "repo": "viff",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "The software in this category has either been declared retired by the creators (including setting the repository to archived) or has not added a commit in more than two years. If the maintained repository has moved elsewhere, please file a pull request with an updated link.",
+          "node_type": "group",
+          "title": "Retired software"
+        }
+      ],
       "title": "Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MP-SPDZ",
-          "description": "MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | documentation | eprint: 2020/512",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T05:01:07Z",
-            "owner": "data61",
-            "repo": "MP-SPDZ",
-            "stars": 1175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "swanky",
-          "description": "A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Sieve",
-            "last_commit": "2026-08-06T20:01:38Z",
-            "owner": "GaloisInc",
-            "repo": "swanky",
-            "stars": 360
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SecretFlow-SPU",
-          "description": "A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | USENIX ATC'23.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T09:55:25Z",
-            "owner": "secretflow",
-            "repo": "spu",
-            "stars": 324
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MPZ",
-          "description": "A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-12T18:20:15Z",
-            "owner": "ethereum",
-            "repo": "mpz",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JIFF",
-          "description": "JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-13T15:04:28Z",
-            "owner": "multiparty",
-            "repo": "jiff",
-            "stars": 274
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ABY3",
-          "description": "3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | CCS'18, 2019/518.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2026-02-27T05:53:47Z",
-            "owner": "ladnir",
-            "repo": "aby3",
-            "stars": 211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MPC",
-          "description": "Go-based secure two-party computation framework combining a garbled-circuit runtime, the MPCL compiler, circuit tooling, OT primitives, and a WIP BMR implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-16T03:49:10Z",
-            "owner": "markkurossi",
-            "repo": "mpc",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zama KMS",
-          "description": "Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | WAHC'23, Spec",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:27:49Z",
-            "owner": "zama-ai",
-            "repo": "kms",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stoffel",
-          "description": "A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T15:39:19Z",
-            "owner": "Stoffel-Labs",
-            "repo": "stoffel",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MPC Framework",
-          "description": "TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports summon circuits and emp-wasm-backend for malicious secure 2PC.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-07-22T01:23:51Z",
-            "owner": "privacy-ethereum",
-            "repo": "mpc-framework",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HPMPC",
-          "description": "HPMPC implements multiple MPC protocols and provides a high-level C++ interface to define functions and use cases. Out of the box, the framework supports computation in the boolean and arithmetic domain, mixed circuits, and fixed point arithmetic. Neural network models can be imported from PyTorch as part of PIGEON.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-25T00:13:12Z",
-            "owner": "chart21",
-            "repo": "hpmpc",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ORQ",
-          "description": "General framework for relational analytics written in C++; includes fast sorting implementations and supports multiple protocols. | SOSP'25",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-19T20:07:11Z",
-            "owner": "CASP-Systems-BU",
-            "repo": "orq",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Velox",
-          "description": "Post-Quantum asynchronous MPC implemented in Rust. Offers Fairness against $t<\\frac{n}{3}$ malicious parties. Scales to $n=100$ parties in a geo-distributed network. | eprint: 2025/1630.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-11T07:57:08Z",
-            "owner": "akhilsb",
-            "repo": "Velox-MPC",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LibOTe",
-          "description": "Library with various OT Extensions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-10T18:58:05Z",
-            "owner": "osu-crypto",
-            "repo": "libOTe",
-            "stars": 503
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SCAPI",
-          "description": "Various secure computation API's carefully documented with a clean code design in mind. | 2012/629.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-07-20T11:01:17Z",
-            "owner": "cryptobiu",
-            "repo": "libscapi",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TSS",
-          "description": "A pure-Rust implementation of various threshold secret sharing schemes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2018-10-28T23:17:30Z",
-            "owner": "snipsco",
-            "repo": "rust-threshold-secret-sharing",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OT Extension",
-          "description": "OT Extension secure against malicious adversaries. | 2015/061.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-11-13T10:06:08Z",
-            "owner": "encryptogroup",
-            "repo": "OTExtension",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distributed Vector-OLE",
-          "description": "A two-party generator for Vector-OLE correlations. CCS'19.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-01-17T15:13:06Z",
-            "owner": "schoppmp",
-            "repo": "distributed-vector-ole",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "APRICOT",
-          "description": "OT Extension secure against malicious adversaries. | 2015/546.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2016-11-17T14:21:50Z",
-            "owner": "bristolcrypto",
-            "repo": "apricot",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SplitCommit",
-          "description": "Additively homomorphic commitment scheme. | 2015/694.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-05-22T07:47:08Z",
-            "owner": "AarhusCrypto",
-            "repo": "SplitCommit",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aes-prng",
-          "description": "Rust pseudo-random number generator based on AES.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-05-18T08:36:58Z",
-            "owner": "tf-encrypted",
-            "repo": "aes-prng",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Primitives"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Blockchain-Crypto-MPC",
-          "description": "Multiparty ECDSA signing in the cryptocurrency setting, includes an optimized GC library, OT, and more. | CCS'18.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-07-28T07:29:15Z",
-            "owner": "unboundsecurity",
-            "repo": "blockchain-crypto-mpc",
-            "stars": 479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fireblocks MPC",
-          "description": "Multiparty ECDSA and EdDSA | eprint 2020/492.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-30T14:27:41Z",
-            "owner": "fireblocks",
-            "repo": "mpc-lib",
-            "stars": 268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PSI",
-          "description": "Private Set Intersection. | 2014/447.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-06-27T20:49:12Z",
-            "owner": "encryptogroup",
-            "repo": "PSI",
-            "stars": 190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LibPSI",
-          "description": "Various protocols for performing private set intersection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-12-23T20:10:34Z",
-            "owner": "osu-crypto",
-            "repo": "libPSI",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BaRK-OPRF",
-          "description": "Private Set Intersection. | 2016/799.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-10-29T17:22:27Z",
-            "owner": "osu-crypto",
-            "repo": "BaRK-OPRF",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prio",
-          "description": "Private aggregation with SNIPs (secret-shared non-interactive proofs). | NSDI'17.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Assembly",
-            "last_commit": "2020-11-19T11:40:09Z",
-            "owner": "mozilla",
-            "repo": "libprio",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Linreg",
-          "description": "Privacy preserving linear regression. | 2016/892.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-04-16T12:39:44Z",
-            "owner": "schoppmp",
-            "repo": "linreg-mpc",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Geppetri",
-          "description": "Verifiable 3PC. | 2017/013.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-12-07T12:40:23Z",
-            "owner": "meilof",
-            "repo": "geppetri",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ROOM",
-          "description": "Read-Only Oblivious Maps and applications to secure machine learning on sparse data. | CCS'19.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-06-08T15:17:03Z",
-            "owner": "schoppmp",
-            "repo": "room-framework",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Protocols"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MPC-SoK",
-          "description": "Build environments for many MPC frameworks using Docker containers. | S&P19.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-12-12T19:04:09Z",
-            "owner": "MPC-SoK",
-            "repo": "frameworks",
-            "stars": 520
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tiny-Garble",
-          "description": "Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits. | S&P'15.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-12T00:29:27Z",
-            "owner": "esonghori",
-            "repo": "TinyGarble",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conclave",
-          "description": "Big Data query compiler that combines cleartext processing with Spark and MPC protocols. | EuroSys19.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-08-18T13:06:25Z",
-            "owner": "multiparty",
-            "repo": "conclave",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Circom 2 Arithc",
-          "description": "Compiles bristol circuits for MPC from circom code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-09-12T16:13:45Z",
-            "owner": "namnc",
-            "repo": "circom-2-arithc",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Garble-Lang",
-          "description": "Programming language for MPC with Garbled Circuits. Garble is statically typed, low-level, purely functional and uses a syntax heavily inspired by Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-22T22:58:48Z",
-            "owner": "sine-fdn",
-            "repo": "garble-lang",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UC Compiler",
-          "description": "Valiant's Universal Circuit Compiler. | 2016/093.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-01-07T13:02:45Z",
-            "owner": "encryptogroup",
-            "repo": "UC",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Summon",
-          "description": "A TypeScript-like language for compiling bristol circuits for MPC. Also available as an npm module.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2025-07-09T00:59:13Z",
-            "owner": "privacy-ethereum",
-            "repo": "summon",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CipherCompute",
-          "description": "Create generic MPC programs using Rust. Works on top of the SCALE engine. Enterprise software that provides UIs for participants handshaking, computations approval, datasources connections, auditing etc...",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-06-29T12:05:35Z",
-            "owner": "Cosmian",
-            "repo": "CipherCompute",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Private Benchmarking",
-          "description": "Provides an End to End platform to perform Private Benchmarking using MPC and GPU-based Confidential Computing on LLMs/CNNs/Vision Models using EzPC framework. | eprint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-22T03:24:13Z",
-            "owner": "microsoft",
-            "repo": "private-benchmarking",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Tools"
-    },
-    {
-      "description": "The software in this category has either been declared retired by the creators (including setting the repository to archived) or has not added a commit in more than two years. If the maintained repository has moved elsewhere, please file a pull request with an updated link.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CrypTen",
-          "description": "MPC with secret sharing; secure against semi-honest adversary; focused on building PyTorch applications. | documentation: link",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-11-23T22:25:52Z",
-            "owner": "facebookresearch",
-            "repo": "CrypTen",
-            "stars": 1649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rosetta",
-          "description": "3PC with secret sharing; secure against semi-honest adversaries; focused on reusing the APIs of TensorFlow and allowing to transfer traditional TensorFlow codes into a privacy-preserving manner with minimal changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-04-26T02:21:22Z",
-            "owner": "LatticeX-Foundation",
-            "repo": "Rosetta",
-            "stars": 550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ABY",
-          "description": "2PC with secret sharing and garbled circuits; secure against semi-honest adversaries. | NDSS'15.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-17T11:38:44Z",
-            "owner": "encryptogroup",
-            "repo": "ABY",
-            "stars": 496
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EzPC",
-          "description": "Offers a suite of tools for secure machine learning using semi-honest MPC protocols. It includes a language for secure machine learning, compilers for TensorFlow/Onnx to various MPC protocols, and frameworks for training and inference on deep neural networks. It provides an end-to-end solution for secure machine learning. | documentation: link. End-to-End Platform: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-28T02:47:56Z",
-            "owner": "mpc-msri",
-            "repo": "EzPC",
-            "stars": 450
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tandem",
-          "description": "2PC with garbled circuits written in Rust; secure against malicious adversaries.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2025-08-13T10:02:20Z",
-            "owner": "sine-fdn",
-            "repo": "tandem",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HoneyBadgerMPC",
-          "description": "Robust MPC-based confidentiality layer for blockchains with guaranteed output delivery; secure against up to t < n/3 malicious parties.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-17T17:01:16Z",
-            "owner": "initc3",
-            "repo": "HoneyBadgerMPC",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MOTION",
-          "description": "Mixed-Protocol MPC framework supporting full-threshold boolean and arithmetic GMW and BMR; secure against semi-honest adversaries. | eprint: 2020/1137.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-07-20T17:44:00Z",
-            "owner": "encryptogroup",
-            "repo": "MOTION",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moose",
-          "description": "3PC with secret sharing; secure against semi-honest adversaries; focused on data processing and machine learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-03-20T16:32:35Z",
-            "owner": "tf-encrypted",
-            "repo": "moose",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SDA",
-          "description": "Secure distributed aggregation of high-dimensional vectors | 2017/643.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2017-03-31T13:51:43Z",
-            "owner": "snipsco",
-            "repo": "sda",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FairPlayMP",
-          "description": "GMW based multi-party protocol secure against semi-honest adversaries | CCS'08.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2015-02-18T20:19:46Z",
-            "owner": "FaiplayMP",
-            "repo": "FairplayMP",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Myst",
-          "description": "Secure Multiparty Key Generation, Signature and Decryption JavaCard applet and host application | CCS'17.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-02-15T17:54:12Z",
-            "owner": "OpenCryptoProject",
-            "repo": "Myst",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fancy-Garbling",
-          "description": "2PC with arithmetic garbled circuits; secure against semi-honest adversaries. | eprint: 2016/969.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2019-12-19T16:56:56Z",
-            "owner": "GaloisInc",
-            "repo": "fancy-garbling",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libTMCG",
-          "description": "C++ framework with various primitives and tools for implementing multiparty games; secure against semi-honest adversaries. | documentation: link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-03-25T16:52:12Z",
-            "owner": "HeikoStamer",
-            "repo": "libtmcg",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Duplo",
-          "description": "2PC with garbled circuits; secure against malicious adversaries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-06-05T17:49:36Z",
-            "owner": "AarhusCrypto",
-            "repo": "DUPLO",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BatchDualEx",
-          "description": "2PC with garbled circuits; secure against malicious adversaries. | eprint: 2016/632.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-07-03T17:12:37Z",
-            "owner": "osu-crypto",
-            "repo": "batchDualEx",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TinyLEGO",
-          "description": "2PC with garbled circuits; secure against malicious adversaries | eprint: 2015/309.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-06-04T17:39:55Z",
-            "owner": "AarhusCrypto",
-            "repo": "TinyLEGO",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SPDZ-Yao",
-          "description": "2PC with garbled circuits; high-level language similar to SPDZ; secure against semi-honest adversaries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-10-11T14:07:19Z",
-            "owner": "mkskeller",
-            "repo": "SPDZ-Yao",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tasty",
-          "description": "2PC with garbled circuits and homomorphic encryption | 2010/365.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-11-10T16:32:51Z",
-            "owner": "encryptogroup",
-            "repo": "tasty",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semi-honest BMR",
-          "description": "BMR protocol secure against semi-honest adversaries | 2016/1066.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-11-21T09:53:52Z",
-            "owner": "cryptobiu",
-            "repo": "Semi-Honest-BMR",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Obliv-Java",
-          "description": "Faithful reimplementation of Java using Obliv-C. | eprint: 2017/878",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-09-10T14:06:28Z",
-            "owner": "Calctopia-OpenSource",
-            "repo": "jdk10u",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TF Encrypted",
-          "description": "3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-06-09T07:09:24Z",
-            "owner": "mortendahl",
-            "repo": "tf-encrypted",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VIFF",
-          "description": "3+PC with secret sharing; secure against semi-honest adversaries | PhD Dissertation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-06-01T18:45:03Z",
-            "owner": "mgeisler",
-            "repo": "viff",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Retired software"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Dragoș Rotaru has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:01:41.861Z",
+    "last_updated": "2026-08-19T12:40:52.445Z",
     "original_repository": "rdragos/awesome-mpc",
+    "original_repository_id": 88106598,
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
     "enhanced_repository": "enhansome/enhansome-mpc",
     "enhanced_repository_description": null,
