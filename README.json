@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 1013287098,
                 "language": "Rust",
-                "last_commit": "2026-08-19T19:00:41Z",
+                "last_commit": "2026-08-20T16:24:47Z",
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 72
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 898247545,
                 "language": "Rust",
-                "last_commit": "2026-08-19T20:21:48Z",
+                "last_commit": "2026-08-20T15:02:58Z",
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 69
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 658841760,
                 "language": "C",
-                "last_commit": "2026-07-25T00:13:12Z",
+                "last_commit": "2026-08-20T11:47:48Z",
                 "owner": "chart21",
                 "repo": "hpmpc",
                 "stars": 33
@@ -361,7 +361,7 @@
                 "last_commit": "2026-07-30T14:27:41Z",
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 268
+                "stars": 269
               }
             },
             {
@@ -958,7 +958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:07:49.363Z",
+    "last_updated": "2026-08-20T22:09:59.178Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_id": 88106598,
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
