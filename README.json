@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T05:01:07Z",
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1175
+                "stars": 1177
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 509708254,
                 "language": "C++",
-                "last_commit": "2026-08-21T17:35:06Z",
+                "last_commit": "2026-08-21T23:06:57Z",
                 "owner": "secretflow",
                 "repo": "spu",
                 "stars": 324
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-21T20:34:44Z",
                 "owner": "zama-ai",
                 "repo": "kms",
-                "stars": 72
+                "stars": 73
               }
             },
             {
@@ -958,7 +958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:02:58.930Z",
+    "last_updated": "2026-08-22T22:01:21.118Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_id": 88106598,
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
