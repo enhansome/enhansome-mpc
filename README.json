@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 509708254,
                 "language": "C++",
-                "last_commit": "2026-08-21T23:06:57Z",
+                "last_commit": "2026-08-23T15:10:01Z",
                 "owner": "secretflow",
                 "repo": "spu",
                 "stars": 324
@@ -958,7 +958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:01:21.118Z",
+    "last_updated": "2026-08-23T22:00:54.981Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_id": 88106598,
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",

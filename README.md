@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 498,967 | 🐛 106 | 📅 2026-08-21 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,289 | 🐛 106 | 📅 2026-08-21 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -66,7 +66,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 * [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,177 | 🐛 15 | 🌐 C++ | 📅 2026-08-17 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
 * [swanky](https://github.com/GaloisInc/swanky) ⭐ 360 | 🐛 11 | 🌐 Sieve | 📅 2026-08-19 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
-* [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 324 | 🐛 41 | 🌐 C++ | 📅 2026-08-21 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
+* [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 324 | 🐛 41 | 🌐 C++ | 📅 2026-08-23 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
 * [MPZ](https://github.com/privacy-scaling-explorations/mpz) ⭐ 298 | 🐛 34 | 🌐 Rust | 📅 2026-07-12 - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
 * [JIFF](https://github.com/multiparty/jiff/) ⭐ 274 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-13 - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
 * [ABY3](https://github.com/ladnir/aby3) ⭐ 212 | 🐛 7 | 🌐 TeX | 📅 2026-02-27 - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
@@ -118,7 +118,7 @@ Here I tried to reference the most recent article found on specific software sin
 * [Garble-Lang](https://github.com/sine-fdn/garble-lang) ⭐ 54 | 🐛 26 | 🌐 Rust | 📅 2026-04-22 - Programming language for MPC with Garbled Circuits. Garble is statically typed, low-level, purely functional and uses a syntax heavily inspired by Rust.
 * [UC Compiler](https://github.com/encryptogroup/UC) ⭐ 44 | 🐛 2 | 🌐 C++ | 📅 2021-01-07 - Valiant's Universal Circuit Compiler. | [2016/093](https://eprint.iacr.org/2016/093).
 * [Summon](https://github.com/voltrevo/summon) ⚠️ Archived - A TypeScript-like language for compiling bristol circuits for MPC. Also available as an [npm module](https://www.npmjs.com/package/summon-ts).
-* [CipherCompute](https://github.com/Cosmian/CipherCompute) ⭐ 27 | 🐛 0 | 📅 2021-06-29 - Create generic MPC programs using [Rust](https://www.rust-lang.org/). Works on top of the [SCALE](https://github.com/KULeuven-COSIC/SCALE-MAMBA) ⭐ 266 | 🐛 9 | 🌐 Verilog | 📅 2026-04-22 engine. Enterprise software that provides UIs for participants handshaking, computations approval, datasources connections, auditing etc...
+* [CipherCompute](https://github.com/Cosmian/CipherCompute) ⭐ 27 | 🐛 0 | 📅 2021-06-29 - Create generic MPC programs using [Rust](https://www.rust-lang.org/). Works on top of the [SCALE](https://github.com/KULeuven-COSIC/SCALE-MAMBA) ⭐ 265 | 🐛 9 | 🌐 Verilog | 📅 2026-04-22 engine. Enterprise software that provides UIs for participants handshaking, computations approval, datasources connections, auditing etc...
 * [Private Benchmarking](https://github.com/microsoft/private-benchmarking) ⭐ 13 | 🐛 6 | 🌐 Python | 📅 2026-04-22 - Provides an End to End platform to perform Private Benchmarking using MPC and GPU-based Confidential Computing on LLMs/CNNs/Vision Models using [EzPC](https://github.com/mpc-msri/EzPC) ⭐ 450 | 🐛 63 | 🌐 C++ | 📅 2026-04-28 framework. | [eprint](https://arxiv.org/abs/2403.00393).
 * [CBMC-GC](https://gitlab.com/securityengineering/CBMC-GC-2) - Creates Boolean circuits from ANSI-C code optimized for secure computation. | [ShallowCC](https://web.archive.org/web/20180205110742/http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
 * [HyCC](https://gitlab.com/securityengineering/HyCC) - Optimizes circuits for hybrid MPC from ANSI-C. | [CCS'18](https://thomaschneider.de/papers/BDKKS18.pdf).
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
