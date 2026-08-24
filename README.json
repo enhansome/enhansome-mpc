@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MPC Hello",
+              "description": "Malicious secure 2PC calculating the larger of two numbers. Also a template repository for building malicious secure 2PC web apps for any circuit.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 873989838,
+                "language": "TypeScript",
+                "last_commit": "2026-05-15T14:20:35Z",
+                "owner": "privacy-ethereum",
+                "repo": "mpc-hello",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MP-SPDZ",
               "description": "MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | documentation | eprint: 2020/512",
               "children": [],
@@ -119,7 +141,7 @@
                 "archived": false,
                 "id": 1013287098,
                 "language": "Rust",
-                "last_commit": "2026-08-21T20:34:44Z",
+                "last_commit": "2026-08-24T13:34:42Z",
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73
@@ -167,7 +189,7 @@
                 "last_commit": "2026-08-20T11:47:48Z",
                 "owner": "chart21",
                 "repo": "hpmpc",
-                "stars": 33
+                "stars": 34
               }
             },
             {
@@ -958,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:00:54.981Z",
+    "last_updated": "2026-08-24T14:06:20.281Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_id": 88106598,
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",

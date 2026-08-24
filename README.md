@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,289 | 🐛 106 | 📅 2026-08-21 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -58,8 +58,8 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Apps
 
-* [2PC is for Lovers](https://voltrevo.github.io/2pc-is-for-lovers/) - Allows two people to find out if they are secretly in love with each other using malicious secure 2PC of a single AND gate.
 * [MPC Hello](https://voltrevo.github.io/mpc-hello/) - Malicious secure 2PC calculating the larger of two numbers. Also a [template repository](https://github.com/voltrevo/mpc-hello) ⚠️ Archived for building malicious secure 2PC web apps for any circuit.
+* [2PC is for Lovers](https://voltrevo.github.io/2pc-is-for-lovers/) - Allows two people to find out if they are secretly in love with each other using malicious secure 2PC of a single AND gate.
 * [TLS Notary](https://tlsnotary.org/) - Uses MPC to blindly sign TLS data, allowing users to make proofs about the content of data served to them over https.
 
 ### Frameworks
@@ -71,10 +71,10 @@ Here I tried to reference the most recent article found on specific software sin
 * [JIFF](https://github.com/multiparty/jiff/) ⭐ 274 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-13 - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
 * [ABY3](https://github.com/ladnir/aby3) ⭐ 212 | 🐛 7 | 🌐 TeX | 📅 2026-02-27 - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
 * [MPC](https://github.com/markkurossi/mpc) ⭐ 133 | 🐛 2 | 🌐 Go | 📅 2026-06-16 - Go-based secure two-party computation framework combining a garbled-circuit runtime, the MPCL compiler, circuit tooling, OT primitives, and a WIP BMR implementation.
-* [Zama KMS](https://github.com/zama-ai/kms/) ⭐ 73 | 🐛 24 | 🌐 Rust | 📅 2026-08-21 - Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | [WAHC'23](https://eprint.iacr.org/2023/815), [Spec](https://github.com/zama-ai/threshold-fhe/blob/main/docs/CryptographicDocumentation.pdf) ⭐ 59 | 🐛 3 | 🌐 Rust | 📅 2026-02-05
+* [Zama KMS](https://github.com/zama-ai/kms/) ⭐ 73 | 🐛 26 | 🌐 Rust | 📅 2026-08-24 - Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | [WAHC'23](https://eprint.iacr.org/2023/815), [Spec](https://github.com/zama-ai/threshold-fhe/blob/main/docs/CryptographicDocumentation.pdf) ⭐ 59 | 🐛 3 | 🌐 Rust | 📅 2026-02-05
 * [Stoffel](https://github.com/Stoffel-Labs/stoffel) ⭐ 69 | 🐛 3 | 🌐 Rust | 📅 2026-08-21 - A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.
 * [MPC Framework](https://github.com/voltrevo/mpc-framework) ⚠️ Archived - TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports [summon](https://github.com/voltrevo/summon) ⚠️ Archived circuits and [emp-wasm-backend](https://github.com/voltrevo/emp-wasm-backend) ⚠️ Archived for malicious secure 2PC.
-* [HPMPC](https://github.com/chart21/hpmpc/) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2026-08-20 - HPMPC implements multiple MPC protocols and provides a high-level C++ interface to define functions and use cases. Out of the box, the framework supports computation in the boolean and arithmetic domain, mixed circuits, and fixed point arithmetic. Neural network models can be imported from PyTorch as part of [PIGEON](https://eprint.iacr.org/2024/1371.pdf).
+* [HPMPC](https://github.com/chart21/hpmpc/) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-08-20 - HPMPC implements multiple MPC protocols and provides a high-level C++ interface to define functions and use cases. Out of the box, the framework supports computation in the boolean and arithmetic domain, mixed circuits, and fixed point arithmetic. Neural network models can be imported from PyTorch as part of [PIGEON](https://eprint.iacr.org/2024/1371.pdf).
 * [ORQ](https://github.com/CASP-Systems-BU/orq) ⭐ 19 | 🐛 3 | 🌐 C++ | 📅 2026-06-19 - General framework for relational analytics written in C++; includes fast sorting implementations and supports multiple protocols. | [SOSP'25](https://dl.acm.org/doi/10.1145/3731569.3764833)
 * [Velox](https://github.com/akhilsb/Velox-MPC) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-03-11 - Post-Quantum asynchronous MPC implemented in Rust. Offers Fairness against $t<\frac{n}{3}$ malicious parties. Scales to $n=100$ parties in a geo-distributed network. | eprint: [2025/1630](https://eprint.iacr.org/2025/1630).
 * [Carbyne Stack](https://carbynestack.io) - MPC cloud platform that combines state-of-the-art MPC with cloud-native technology like Kubernetes, Istio, and Knative to enable MPC deployments at scale.
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
