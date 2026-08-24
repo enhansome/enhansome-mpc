@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 222743410,
                 "language": "Sieve",
-                "last_commit": "2026-08-19T18:05:44Z",
+                "last_commit": "2026-08-24T18:58:20Z",
                 "owner": "GaloisInc",
                 "repo": "swanky",
                 "stars": 360
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 1013287098,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:34:42Z",
+                "last_commit": "2026-08-24T15:44:36Z",
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73
@@ -847,7 +847,7 @@
                 "last_commit": "2017-06-05T17:49:36Z",
                 "owner": "AarhusCrypto",
                 "repo": "DUPLO",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:20.281Z",
+    "last_updated": "2026-08-24T22:09:30.494Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_id": 88106598,
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
