@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-17T05:01:07Z",
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1177
+                "stars": 1178
               }
             },
             {
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 509708254,
                 "language": "C++",
-                "last_commit": "2026-08-23T15:10:01Z",
+                "last_commit": "2026-08-25T15:37:48Z",
                 "owner": "secretflow",
                 "repo": "spu",
                 "stars": 324
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 1013287098,
                 "language": "Rust",
-                "last_commit": "2026-08-24T15:44:36Z",
+                "last_commit": "2026-08-25T20:56:25Z",
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73
@@ -156,7 +156,7 @@
                 "archived": false,
                 "id": 898247545,
                 "language": "Rust",
-                "last_commit": "2026-08-21T18:07:10Z",
+                "last_commit": "2026-08-25T15:43:23Z",
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 69
@@ -368,7 +368,7 @@
                 "last_commit": "2022-07-28T07:29:15Z",
                 "owner": "unboundsecurity",
                 "repo": "blockchain-crypto-mpc",
-                "stars": 480
+                "stars": 479
               }
             },
             {
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:39.272Z",
+    "last_updated": "2026-08-25T22:08:01.296Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_id": 88106598,
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
