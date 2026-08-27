@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-24T18:58:20Z",
                 "owner": "GaloisInc",
                 "repo": "swanky",
-                "stars": 360
+                "stars": 361
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 509708254,
                 "language": "C++",
-                "last_commit": "2026-08-25T15:37:48Z",
+                "last_commit": "2026-08-26T18:02:16Z",
                 "owner": "secretflow",
                 "repo": "spu",
-                "stars": 324
+                "stars": 325
               }
             },
             {
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 1013287098,
                 "language": "Rust",
-                "last_commit": "2026-08-25T20:56:25Z",
+                "last_commit": "2026-08-26T20:40:53Z",
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73
@@ -682,7 +682,7 @@
                 "last_commit": "2026-07-17T11:38:44Z",
                 "owner": "encryptogroup",
                 "repo": "ABY",
-                "stars": 496
+                "stars": 497
               }
             },
             {
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:08:01.296Z",
+    "last_updated": "2026-08-27T02:14:33.556Z",
     "original_repository": "rdragos/awesome-mpc",
     "original_repository_id": 88106598,
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
