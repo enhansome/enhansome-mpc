@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 1013287098,
                 "language": "Rust",
-                "last_commit": "2026-08-26T20:40:53Z",
+                "last_commit": "2026-08-27T11:24:51Z",
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73
@@ -238,7 +238,7 @@
                 "archived": false,
                 "id": 73007955,
                 "language": "C++",
-                "last_commit": "2026-08-21T04:57:37Z",
+                "last_commit": "2026-08-27T07:06:45Z",
                 "owner": "osu-crypto",
                 "repo": "libOTe",
                 "stars": 503
@@ -980,9 +980,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:14:33.556Z",
-    "original_repository": "rdragos/awesome-mpc",
-    "original_repository_id": 88106598,
+    "last_updated": "2026-08-27T11:50:51.964Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 88106598,
+      "language": null,
+      "last_commit": "2026-07-24T13:46:57Z",
+      "owner": "rdragos",
+      "repo": "awesome-mpc",
+      "stars": 1993
+    },
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
     "enhanced_repository": "enhansome/enhansome-mpc",
     "enhanced_repository_description": null,
