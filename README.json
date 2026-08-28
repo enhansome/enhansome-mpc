@@ -18,7 +18,8 @@
                 "owner": "privacy-ethereum",
                 "repo": "mpc-hello",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1178
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "GaloisInc",
                 "repo": "swanky",
                 "stars": 361
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 509708254,
                 "language": "C++",
-                "last_commit": "2026-08-26T18:02:16Z",
+                "last_commit": "2026-08-27T20:53:09Z",
                 "owner": "secretflow",
                 "repo": "spu",
                 "stars": 325
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "ethereum",
                 "repo": "mpz",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "multiparty",
                 "repo": "jiff",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "ladnir",
                 "repo": "aby3",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "markkurossi",
                 "repo": "mpc",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -141,11 +149,12 @@
                 "archived": false,
                 "id": 1013287098,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:24:51Z",
+                "last_commit": "2026-08-27T15:36:45Z",
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "privacy-ethereum",
                 "repo": "mpc-framework",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "chart21",
                 "repo": "hpmpc",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "CASP-Systems-BU",
                 "repo": "orq",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "akhilsb",
                 "repo": "Velox-MPC",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             }
           ],
           "description": null,
@@ -238,11 +252,12 @@
                 "archived": false,
                 "id": 73007955,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:06:45Z",
+                "last_commit": "2026-08-27T20:27:45Z",
                 "owner": "osu-crypto",
                 "repo": "libOTe",
                 "stars": 503
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "cryptobiu",
                 "repo": "libscapi",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "snipsco",
                 "repo": "rust-threshold-secret-sharing",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "encryptogroup",
                 "repo": "OTExtension",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "schoppmp",
                 "repo": "distributed-vector-ole",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "bristolcrypto",
                 "repo": "apricot",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "AarhusCrypto",
                 "repo": "SplitCommit",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "tf-encrypted",
                 "repo": "aes-prng",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             }
           ],
           "description": null,
@@ -369,7 +391,8 @@
                 "owner": "unboundsecurity",
                 "repo": "blockchain-crypto-mpc",
                 "stars": 479
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -384,7 +407,8 @@
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -399,7 +423,8 @@
                 "owner": "encryptogroup",
                 "repo": "PSI",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -414,7 +439,8 @@
                 "owner": "osu-crypto",
                 "repo": "libPSI",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "osu-crypto",
                 "repo": "BaRK-OPRF",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -444,7 +471,8 @@
                 "owner": "mozilla",
                 "repo": "libprio",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -459,7 +487,8 @@
                 "owner": "schoppmp",
                 "repo": "linreg-mpc",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "meilof",
                 "repo": "geppetri",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "schoppmp",
                 "repo": "room-framework",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             }
           ],
           "description": null,
@@ -511,7 +542,8 @@
                 "owner": "MPC-SoK",
                 "repo": "frameworks",
                 "stars": 520
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -526,7 +558,8 @@
                 "owner": "esonghori",
                 "repo": "TinyGarble",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -541,7 +574,8 @@
                 "owner": "multiparty",
                 "repo": "conclave",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -556,7 +590,8 @@
                 "owner": "namnc",
                 "repo": "circom-2-arithc",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -571,7 +606,8 @@
                 "owner": "sine-fdn",
                 "repo": "garble-lang",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -586,7 +622,8 @@
                 "owner": "encryptogroup",
                 "repo": "UC",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -601,7 +638,8 @@
                 "owner": "privacy-ethereum",
                 "repo": "summon",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -616,7 +654,8 @@
                 "owner": "Cosmian",
                 "repo": "CipherCompute",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "microsoft",
                 "repo": "private-benchmarking",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             }
           ],
           "description": null,
@@ -653,7 +693,8 @@
                 "owner": "facebookresearch",
                 "repo": "CrypTen",
                 "stars": 1649
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -668,7 +709,8 @@
                 "owner": "LatticeX-Foundation",
                 "repo": "Rosetta",
                 "stars": 550
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -683,7 +725,8 @@
                 "owner": "encryptogroup",
                 "repo": "ABY",
                 "stars": 497
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -698,7 +741,8 @@
                 "owner": "mpc-msri",
                 "repo": "EzPC",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -713,7 +757,8 @@
                 "owner": "sine-fdn",
                 "repo": "tandem",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -728,7 +773,8 @@
                 "owner": "initc3",
                 "repo": "HoneyBadgerMPC",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -743,7 +789,8 @@
                 "owner": "encryptogroup",
                 "repo": "MOTION",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -758,7 +805,8 @@
                 "owner": "tf-encrypted",
                 "repo": "moose",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -773,7 +821,8 @@
                 "owner": "snipsco",
                 "repo": "sda",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -788,7 +837,8 @@
                 "owner": "FaiplayMP",
                 "repo": "FairplayMP",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -803,7 +853,8 @@
                 "owner": "OpenCryptoProject",
                 "repo": "Myst",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -818,7 +869,8 @@
                 "owner": "GaloisInc",
                 "repo": "fancy-garbling",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -833,7 +885,8 @@
                 "owner": "HeikoStamer",
                 "repo": "libtmcg",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -848,7 +901,8 @@
                 "owner": "AarhusCrypto",
                 "repo": "DUPLO",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -863,7 +917,8 @@
                 "owner": "osu-crypto",
                 "repo": "batchDualEx",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -878,7 +933,8 @@
                 "owner": "AarhusCrypto",
                 "repo": "TinyLEGO",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -893,7 +949,8 @@
                 "owner": "mkskeller",
                 "repo": "SPDZ-Yao",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -908,7 +965,8 @@
                 "owner": "encryptogroup",
                 "repo": "tasty",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -923,7 +981,8 @@
                 "owner": "cryptobiu",
                 "repo": "Semi-Honest-BMR",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -938,7 +997,8 @@
                 "owner": "Calctopia-OpenSource",
                 "repo": "jdk10u",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -953,7 +1013,8 @@
                 "owner": "mortendahl",
                 "repo": "tf-encrypted",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             },
             {
               "node_type": "item",
@@ -968,7 +1029,8 @@
                 "owner": "mgeisler",
                 "repo": "viff",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
             }
           ],
           "description": "The software in this category has either been declared retired by the creators (including setting the repository to archived) or has not added a commit in more than two years. If the maintained repository has moved elsewhere, please file a pull request with an updated link.",
@@ -980,7 +1042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:51.964Z",
+    "last_updated": "2026-08-28T05:50:17.936Z",
     "original_repository_info": {
       "archived": false,
       "id": 88106598,
@@ -988,7 +1050,7 @@
       "last_commit": "2026-07-24T13:46:57Z",
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1993
+      "stars": 1994
     },
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
     "enhanced_repository": "enhansome/enhansome-mpc",
