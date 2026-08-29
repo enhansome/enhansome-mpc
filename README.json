@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The hello-world of MPC.",
+                "homepage": "https://mpc.pse.dev/apps/hello",
                 "id": 873989838,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-15T14:20:35Z",
+                "open_issues": 0,
                 "owner": "privacy-ethereum",
                 "repo": "mpc-hello",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             }
@@ -35,12 +40,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Versatile framework for multi-party computation",
+                "homepage": null,
                 "id": 152511277,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T05:01:07Z",
+                "open_issues": 15,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1178
+                "stars": 1178,
+                "topics": [
+                  "confidential-computing",
+                  "garbled-circuits",
+                  "mpc",
+                  "multi-party-computation",
+                  "multiparty-computation",
+                  "privacy-enhancing-technologies",
+                  "privacy-preserving-computing",
+                  "secret-sharing",
+                  "secure-computation",
+                  "secure-multi-party-computation",
+                  "secure-multiparty-computation",
+                  "smpc",
+                  "threshold-cryptography"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -51,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suite of Rust libraries for secure multi-party computation.",
+                "homepage": "https://galoisinc.github.io/swanky/",
                 "id": 222743410,
                 "language": "Sieve",
+                "license": "MIT",
                 "last_commit": "2026-08-24T18:58:20Z",
+                "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
-                "stars": 361
+                "stars": 361,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -67,12 +96,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPU (Secure Processing Unit) aims to be a provable, measurable secure computation device, which provides computation ability while keeping your private data protected.",
+                "homepage": "https://www.secretflow.org.cn/docs/spu/en/",
                 "id": 509708254,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T20:53:09Z",
+                "open_issues": 41,
                 "owner": "secretflow",
                 "repo": "spu",
-                "stars": 325
+                "stars": 325,
+                "topics": [
+                  "privacy-preserving",
+                  "private-set-intersection",
+                  "secure-multiparty-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -83,12 +121,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-party computation libraries written in Rust 🦀",
+                "homepage": null,
                 "id": 650666428,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-07-12T18:20:15Z",
+                "open_issues": 34,
                 "owner": "ethereum",
                 "repo": "mpz",
-                "stars": 298
+                "stars": 298,
+                "topics": [
+                  "cryptography",
+                  "garbled-circuits",
+                  "mpc",
+                  "multi-party-computation",
+                  "oblivious-transfer",
+                  "privacy",
+                  "zero-knowledge"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -99,12 +150,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript library for building web-based applications that employ secure multi-party computation (MPC).",
+                "homepage": "https://multiparty.org/jiff/",
                 "id": 92989930,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-13T15:04:28Z",
+                "open_issues": 53,
                 "owner": "multiparty",
                 "repo": "jiff",
-                "stars": 274
+                "stars": 274,
+                "topics": [
+                  "cybersecurity",
+                  "javascript",
+                  "javascript-library",
+                  "mpc",
+                  "multi-party",
+                  "multi-party-computation",
+                  "multiparty",
+                  "multiparty-computation",
+                  "privacy-enhancing-technologies",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -115,12 +182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Three Party MPC framework for Machine learning and Databases",
+                "homepage": null,
                 "id": 127166742,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2026-02-27T05:53:47Z",
+                "open_issues": 7,
                 "owner": "ladnir",
                 "repo": "aby3",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -131,12 +203,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure Multi-Party Computation (MPC) framework written in Go. Implements two-party garbled circuits (Yao) and the Goldreich-Micali-Wigderson (GMW) protocol for secure computation.",
+                "homepage": "https://www.markkurossi.com/mpcl/index.html",
                 "id": 174100209,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-16T03:49:10Z",
+                "open_issues": 2,
                 "owner": "markkurossi",
                 "repo": "mpc",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "aes-128-cbc",
+                  "aes-128-gcm",
+                  "ed25519",
+                  "garbled-circuit",
+                  "gmw",
+                  "go",
+                  "golang",
+                  "hmac-sha256",
+                  "hmac-sha512",
+                  "iknp",
+                  "logical-circuits",
+                  "mpc",
+                  "multi-party-computation",
+                  "multiparty-computation",
+                  "oblivious-transfer",
+                  "programming-language",
+                  "sha-256",
+                  "sha-512",
+                  "yao-millionaires"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -147,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Key Management System for the Zama Protocol.",
+                "homepage": null,
                 "id": 1013287098,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:02:16Z",
+                "open_issues": 32,
                 "owner": "zama-ai",
                 "repo": "kms",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -163,12 +265,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://stoffelmpc.com",
                 "id": 898247545,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T15:43:23Z",
+                "open_issues": 3,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "confidential-computing",
+                  "cryptography",
+                  "data",
+                  "data-privacy",
+                  "data-security",
+                  "mpc",
+                  "multi-party-computation",
+                  "multiparty-computation",
+                  "privacy",
+                  "privacy-by-design",
+                  "privacy-enhancing-technologies",
+                  "privacy-first",
+                  "programming",
+                  "programming-language",
+                  "secure-multi-party-computation",
+                  "secure-multiparty-computation",
+                  "security",
+                  "smpc",
+                  "threshold-cryptography",
+                  "virtual-machine"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -179,12 +307,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Create MPC apps with TypeScript.",
+                "homepage": "https://mpc.pse.dev",
                 "id": 838200920,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-22T01:23:51Z",
+                "open_issues": 1,
                 "owner": "privacy-ethereum",
                 "repo": "mpc-framework",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -195,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High Performance Implementation of Secure Multiparty Computation protocols",
+                "homepage": "https://c.harth-kitzerow.com/mkdocs-hpmpc/",
                 "id": 658841760,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-20T11:47:48Z",
+                "open_issues": 0,
                 "owner": "chart21",
                 "repo": "hpmpc",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -211,12 +349,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ORQ is a system for collaborative analytics under multiparty computation. [SOSP '25]",
+                "homepage": "https://casp-systems-bu.github.io/orq/",
                 "id": 1028685079,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-19T20:07:11Z",
+                "open_issues": 3,
                 "owner": "CASP-Systems-BU",
                 "repo": "orq",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "multiparty-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -227,12 +372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anonymous Broadcast using Asynchronous Multi-Party Computation from Lightweight Cryptography",
+                "homepage": null,
                 "id": 935787441,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-03-11T07:57:08Z",
+                "open_issues": 0,
                 "owner": "akhilsb",
                 "repo": "Velox-MPC",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             }
@@ -250,12 +400,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, portable, and easy to use Oblivious Transfer Library",
+                "homepage": null,
                 "id": 73007955,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T20:27:45Z",
+                "open_issues": 4,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
-                "stars": 503
+                "stars": 503,
+                "topics": [
+                  "delta-ot",
+                  "oblivious-transfer",
+                  "oblivious-transfer-extension",
+                  "ot-extension",
+                  "ot-protocols",
+                  "secure-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -266,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comprehensive Open Source Library for Secure Multiparty Computation",
+                "homepage": null,
                 "id": 53246303,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-07-20T11:01:17Z",
+                "open_issues": 14,
                 "owner": "cryptobiu",
                 "repo": "libscapi",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -282,12 +449,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure-Rust implementation of various threshold secret sharing schemes",
+                "homepage": null,
                 "id": 62790774,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-28T23:17:30Z",
+                "open_issues": 5,
                 "owner": "snipsco",
                 "repo": "rust-threshold-secret-sharing",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "cryptography",
+                  "rust",
+                  "secret-sharing",
+                  "secure-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -298,12 +475,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ OT extension implementation",
+                "homepage": null,
                 "id": 12376902,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2020-11-13T10:06:08Z",
+                "open_issues": 11,
                 "owner": "encryptogroup",
                 "repo": "OTExtension",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "encrypto",
+                  "oblivious-transfer",
+                  "ot"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -314,12 +500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A two-party generator for Vector-OLE correlations.",
+                "homepage": null,
                 "id": 209288836,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2021-01-17T15:13:06Z",
+                "open_issues": 1,
                 "owner": "schoppmp",
                 "repo": "distributed-vector-ole",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -330,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "APRICOT: Advanced Protocols for Real-world Implementation of Computational Oblivious Transfers",
+                "homepage": null,
                 "id": 50840214,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2016-11-17T14:21:50Z",
+                "open_issues": 0,
                 "owner": "bristolcrypto",
                 "repo": "apricot",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -346,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A portable C++ implementation of the [FJNT16] XOR-homomorphic commitment scheme",
+                "homepage": null,
                 "id": 78489820,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2017-05-22T07:47:08Z",
+                "open_issues": 0,
                 "owner": "AarhusCrypto",
                 "repo": "SplitCommit",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -362,12 +563,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust pseudo-random number generator based on AES",
+                "homepage": null,
                 "id": 496169187,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-18T08:36:58Z",
+                "open_issues": 4,
                 "owner": "tf-encrypted",
                 "repo": "aes-prng",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "aes",
+                  "cryptography",
+                  "prng",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             }
@@ -385,12 +596,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Protecting cryptographic signing keys and seed secrets with Multi-Party Computation.",
+                "homepage": null,
                 "id": 154275339,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-28T07:29:15Z",
+                "open_issues": 2,
                 "owner": "unboundsecurity",
                 "repo": "blockchain-crypto-mpc",
-                "stars": 479
+                "stars": 479,
+                "topics": [
+                  "blockchain",
+                  "cryptography",
+                  "hardware-security-module",
+                  "hsm",
+                  "mpc",
+                  "multi-signature",
+                  "multiparty-computation",
+                  "multisig"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -401,12 +626,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 673830016,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-30T14:27:41Z",
+                "open_issues": 4,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 269
+                "stars": 269,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -417,12 +647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementations of Private Set Intersection Protocols",
+                "homepage": null,
                 "id": 34384666,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-06-27T20:49:12Z",
+                "open_issues": 9,
                 "owner": "encryptogroup",
                 "repo": "PSI",
-                "stars": 190
+                "stars": 190,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -433,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository for private set intersection.",
+                "homepage": null,
                 "id": 60737562,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-23T20:10:34Z",
+                "open_issues": 6,
                 "owner": "osu-crypto",
                 "repo": "libPSI",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -449,12 +689,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Batched Oblivious PRF with Applications to Private Set Intersection (CCS 2016)",
+                "homepage": "http://eprint.iacr.org/2016/799",
                 "id": 64349030,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2022-10-29T17:22:27Z",
+                "open_issues": 6,
                 "owner": "osu-crypto",
                 "repo": "BaRK-OPRF",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "2psi",
+                  "oprf"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -465,12 +713,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "INACTIVE -  A C library implementing a basic version of the Prio system for private aggregation. https://crypto.stanford.edu/prio/",
+                "homepage": null,
                 "id": 138322092,
                 "language": "Assembly",
+                "license": "MPL-2.0",
                 "last_commit": "2020-11-19T11:40:09Z",
+                "open_issues": 0,
                 "owner": "mozilla",
                 "repo": "libprio",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "inactive",
+                  "unmaintained"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -481,12 +737,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Secure Multiparty Computation (MPC) protocol for computing linear regression on vertically distributed datasets.",
+                "homepage": null,
                 "id": 65687462,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-16T12:39:44Z",
+                "open_issues": 1,
                 "owner": "schoppmp",
                 "repo": "linreg-mpc",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -497,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pinocchio-based adaptive zk-SNARK and distributed computation",
+                "homepage": null,
                 "id": 84540648,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-07T12:40:23Z",
+                "open_issues": 0,
                 "owner": "meilof",
                 "repo": "geppetri",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -513,12 +779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read-Only Oblivious Maps and applications to multi-party machine learning on sparse data.",
+                "homepage": null,
                 "id": 195227913,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2020-06-08T15:17:03Z",
+                "open_issues": 0,
                 "owner": "schoppmp",
                 "repo": "room-framework",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             }
@@ -536,12 +807,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample code and build environments for MPC frameworks",
+                "homepage": null,
                 "id": 137266237,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-12T19:04:09Z",
+                "open_issues": 15,
                 "owner": "MPC-SoK",
                 "repo": "frameworks",
-                "stars": 520
+                "stars": 520,
+                "topics": [
+                  "cryptography",
+                  "mpc",
+                  "smc"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -552,12 +832,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits",
+                "homepage": null,
                 "id": 23408534,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T01:14:38Z",
+                "open_issues": 0,
                 "owner": "esonghori",
                 "repo": "TinyGarble",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "circuit-description",
+                  "garbled-circuits",
+                  "security-protocol",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -568,12 +858,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Query compiler for secure multi-party computation.",
+                "homepage": null,
                 "id": 119094028,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-18T13:06:25Z",
+                "open_issues": 10,
                 "owner": "multiparty",
                 "repo": "conclave",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "cybersecurity",
+                  "mpc",
+                  "multiparty",
+                  "multiparty-computation",
+                  "privacy-enhancing-technologies",
+                  "secure-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -584,12 +886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Circom interpreter to arithmetic circuit description",
+                "homepage": null,
                 "id": 725579016,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-09-12T16:13:45Z",
+                "open_issues": 17,
                 "owner": "namnc",
                 "repo": "circom-2-arithc",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -600,12 +907,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turing-Incomplete Programming Language for Multi-Party Computation with Garbled Circuits",
+                "homepage": "https://garble-lang.org",
                 "id": 447332092,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-04-22T22:58:48Z",
+                "open_issues": 26,
                 "owner": "sine-fdn",
                 "repo": "garble-lang",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "circuit-description",
+                  "garbled-circuits",
+                  "multi-party-computation",
+                  "programming-language",
+                  "secure-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -616,12 +934,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Valiant's universal circuit construction optimized for private function evaluation",
+                "homepage": null,
                 "id": 50654088,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-01-07T13:02:45Z",
+                "open_issues": 2,
                 "owner": "encryptogroup",
                 "repo": "UC",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -632,12 +955,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A language for building boolean circuits based on TypeScript",
+                "homepage": null,
                 "id": 829808230,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-07-09T00:59:13Z",
+                "open_issues": 4,
                 "owner": "privacy-ethereum",
                 "repo": "summon",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -648,12 +976,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The free EAP version of the Cosmian Collaborative Confidential Computing platform. Try it!",
+                "homepage": "https://cosmian.com",
                 "id": 348761205,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-06-29T12:05:35Z",
+                "open_issues": 0,
                 "owner": "Cosmian",
                 "repo": "CipherCompute",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "confidential-computing",
+                  "cryptography",
+                  "distributed-computing",
+                  "multiparty-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -664,12 +1002,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform that enables users to perform private benchmarking of machine learning models. The platform facilitates the evaluation of models based on different trust levels between the model owners and the dataset owners.",
+                "homepage": null,
                 "id": 793378499,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-22T03:24:13Z",
+                "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "private-benchmarking",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "benchmarking",
+                  "confidential-computing",
+                  "contamination",
+                  "ezpc",
+                  "inference",
+                  "large-language-models",
+                  "llms-benchmarking",
+                  "mpc",
+                  "platform",
+                  "private",
+                  "private-benchmarking",
+                  "secure",
+                  "trusted-execution-environment"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             }
@@ -687,12 +1044,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A framework for Privacy Preserving Machine Learning",
+                "homepage": null,
                 "id": 202443088,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-23T22:25:52Z",
+                "open_issues": 94,
                 "owner": "facebookresearch",
                 "repo": "CrypTen",
-                "stars": 1649
+                "stars": 1649,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -703,12 +1065,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Privacy-Preserving Framework Based on TensorFlow",
+                "homepage": null,
                 "id": 254110428,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-04-26T02:21:22Z",
+                "open_issues": 6,
                 "owner": "LatticeX-Foundation",
                 "repo": "Rosetta",
-                "stars": 550
+                "stars": 550,
+                "topics": [
+                  "federated-learning",
+                  "homomorphic-encryption",
+                  "privacy-preserving-machine-learning",
+                  "secure-computation",
+                  "secure-multiparty-computation",
+                  "zero-knowledge-proofs"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -719,12 +1093,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ABY - A Framework for Efficient Mixed-protocol Secure Two-party Computation",
+                "homepage": null,
                 "id": 27261743,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-17T11:38:44Z",
+                "open_issues": 70,
                 "owner": "encryptogroup",
                 "repo": "ABY",
-                "stars": 497
+                "stars": 497,
+                "topics": [
+                  "circuit",
+                  "encrypto",
+                  "garbled-circuits",
+                  "mpc",
+                  "secret-sharing",
+                  "secure-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -735,12 +1121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 170995719,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-04-28T02:47:56Z",
+                "open_issues": 63,
                 "owner": "mpc-msri",
                 "repo": "EzPC",
-                "stars": 450
+                "stars": 450,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -751,12 +1142,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A maliciously secure two-party computation engine which is embeddable and accessible",
+                "homepage": null,
                 "id": 565905050,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-08-13T10:02:20Z",
+                "open_issues": 7,
                 "owner": "sine-fdn",
                 "repo": "tandem",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "garbled-circuits",
+                  "mpc",
+                  "multi-party-computation",
+                  "rust",
+                  "secure-multi-party-computation",
+                  "smpc"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -767,12 +1170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust MPC-based confidentiality layer for blockchains",
+                "homepage": null,
                 "id": 140328583,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-17T17:01:16Z",
+                "open_issues": 66,
                 "owner": "initc3",
                 "repo": "HoneyBadgerMPC",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -783,12 +1191,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An efficient, user-friendly, modular, and extensible framework for mixed-protocol secure multi-party computation with two or more parties",
+                "homepage": null,
                 "id": 295807933,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-07-20T17:44:00Z",
+                "open_issues": 24,
                 "owner": "encryptogroup",
                 "repo": "MOTION",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "cmake",
+                  "cryptography",
+                  "fibers",
+                  "garbled-circuits",
+                  "mpc",
+                  "multiparty-computation",
+                  "oblivious-transfer",
+                  "ot-extension",
+                  "privacy",
+                  "privacy-enhancing-technologies",
+                  "secret-sharing",
+                  "secure-computation",
+                  "smpc"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -799,12 +1226,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure distributed dataflow framework for encrypted machine learning and data processing",
+                "homepage": null,
                 "id": 257892054,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-20T16:32:35Z",
+                "open_issues": 110,
                 "owner": "tf-encrypted",
                 "repo": "moose",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "cryptography",
+                  "data-science",
+                  "distributed-computing",
+                  "machine-learning",
+                  "privacy",
+                  "secure-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -815,12 +1254,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure distributed aggregation of high-dimensional vectors",
+                "homepage": "https://snipsco.github.io/sda/",
                 "id": 81083419,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2017-03-31T13:51:43Z",
+                "open_issues": 0,
                 "owner": "snipsco",
                 "repo": "sda",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "cryptography",
+                  "homomorphic-encryption",
+                  "machine-learning",
+                  "privacy",
+                  "secret-sharing",
+                  "secure-computation",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -831,12 +1283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FairplayMP provides secure multiparty computation.  ",
+                "homepage": "http://www.cs.huji.ac.il/project/Fairplay/FairplayMP.html",
                 "id": 3792087,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-02-18T20:19:46Z",
+                "open_issues": 2,
                 "owner": "FaiplayMP",
                 "repo": "FairplayMP",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -847,12 +1304,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure Multiparty Key Generation, Signature and Decryption javacard applet",
+                "homepage": "https://trojantoleranthardware.github.io/",
                 "id": 100109753,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-02-15T17:54:12Z",
+                "open_issues": 0,
                 "owner": "OpenCryptoProject",
                 "repo": "Myst",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "decryption",
+                  "elgamal",
+                  "javacard",
+                  "multiparty-computation",
+                  "schnorr",
+                  "signature"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -863,12 +1332,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Rust implementation of the BMR16 arithmetic garbling scheme.",
+                "homepage": null,
                 "id": 66579368,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2019-12-19T16:56:56Z",
+                "open_issues": 0,
                 "owner": "GaloisInc",
                 "repo": "fancy-garbling",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "cryptography",
+                  "secure-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -879,12 +1356,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LibTMCG is a free C++ library for creating secure and verifiable online   card games",
+                "homepage": "https://www.nongnu.org/libtmcg/",
                 "id": 117454410,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2021-03-25T16:52:12Z",
+                "open_issues": 1,
                 "owner": "HeikoStamer",
                 "repo": "libtmcg",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "card-game",
+                  "cryptography",
+                  "mental-poker",
+                  "openpgp",
+                  "threshold-cryptography",
+                  "zero-knowledge-proofs"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -895,12 +1384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ implementation of the DUPLO cryptographic protocol",
+                "homepage": null,
                 "id": 86344605,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-06-05T17:49:36Z",
+                "open_issues": 4,
                 "owner": "AarhusCrypto",
                 "repo": "DUPLO",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -911,12 +1405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Batch Dual Execution framework for secure multiparty computation",
+                "homepage": null,
                 "id": 60734470,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-07-03T17:12:37Z",
+                "open_issues": 1,
                 "owner": "osu-crypto",
                 "repo": "batchDualEx",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -927,12 +1426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ implementation of the TinyLEGO cryptographic protocol [NST17] for general secure two-party computation",
+                "homepage": null,
                 "id": 73797911,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2017-06-04T17:39:55Z",
+                "open_issues": 0,
                 "owner": "AarhusCrypto",
                 "repo": "TinyLEGO",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -943,12 +1447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yao's garbled circuit computation of SPDZ-2 code",
+                "homepage": null,
                 "id": 135173065,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-11T14:07:19Z",
+                "open_issues": 0,
                 "owner": "mkskeller",
                 "repo": "SPDZ-Yao",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -959,12 +1468,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for Automating efficient Secure Two-partY computation protocols",
+                "homepage": null,
                 "id": 32314681,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-11-10T16:32:51Z",
+                "open_issues": 5,
                 "owner": "encryptogroup",
                 "repo": "tasty",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "encrypto",
+                  "garbled-circuits",
+                  "homomorphic-encryption",
+                  "hybrid"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -975,12 +1494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 68796394,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-11-21T09:53:52Z",
+                "open_issues": 2,
                 "owner": "cryptobiu",
                 "repo": "Semi-Honest-BMR",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -991,12 +1515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Faithful reimplementation of Java for secure computation.",
+                "homepage": null,
                 "id": 404635977,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2021-09-10T14:06:28Z",
+                "open_issues": 0,
                 "owner": "Calctopia-OpenSource",
                 "repo": "jdk10u",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -1007,12 +1536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Framework for Encrypted Machine Learning in TensorFlow",
+                "homepage": "https://tf-encrypted.io/",
                 "id": 501735838,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-09T07:09:24Z",
+                "open_issues": 0,
                 "owner": "mortendahl",
                 "repo": "tf-encrypted",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -1023,12 +1557,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Archive of the VIFF project, active from 2007 to 2010. Please see https://github.com/github.com/data61/MP-SPDZ for an alternative.",
+                "homepage": null,
                 "id": 498850771,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-01T18:45:03Z",
+                "open_issues": 0,
                 "owner": "mgeisler",
                 "repo": "viff",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "cryptography",
+                  "mpc",
+                  "multi-party-computation"
+                ]
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             }
@@ -1042,15 +1585,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:26.038Z",
+    "last_updated": "2026-08-29T04:26:47.335Z",
     "original_repository_info": {
       "archived": false,
+      "description": " A curated list of multi party computation resources and links.",
+      "homepage": null,
       "id": 88106598,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-24T13:46:57Z",
+      "open_issues": 8,
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1994
+      "stars": 1994,
+      "topics": [
+        "crypto",
+        "multiparty-computation",
+        "secure-computation"
+      ]
     },
     "original_repository_sha": "e510a4991d81e49d51a3dae70dd5ae733bd11805",
     "enhanced_repository": "enhansome/enhansome-mpc",
