@@ -49,7 +49,7 @@
                 "open_issues": 15,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1177,
+                "stars": 1178,
                 "topics": [
                   "confidential-computing",
                   "garbled-circuits",
@@ -249,7 +249,7 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T21:32:56Z",
+                "last_commit": "2026-08-31T16:02:03Z",
                 "open_issues": 33,
                 "owner": "zama-ai",
                 "repo": "kms",
@@ -270,8 +270,8 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-25T15:43:23Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-31T20:22:56Z",
+                "open_issues": 4,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 69,
@@ -635,7 +635,7 @@
                 "open_issues": 4,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:56:14.586Z",
+    "last_updated": "2026-09-01T00:48:58.879Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
@@ -1597,7 +1597,7 @@
       "open_issues": 8,
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1994,
+      "stars": 1995,
       "topics": [
         "crypto",
         "multiparty-computation",
