@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 502,043 | 🐛 105 | 📅 2026-08-21 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 502,405 | 🐛 105 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -65,14 +65,14 @@ Here I tried to reference the most recent article found on specific software sin
 ### Frameworks
 
 * [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,178 | 🐛 15 | 🌐 C++ | 📅 2026-08-17 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
-* [swanky](https://github.com/GaloisInc/swanky) ⭐ 361 | 🐛 11 | 🌐 Sieve | 📅 2026-08-24 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
-* [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 325 | 🐛 41 | 🌐 C++ | 📅 2026-09-01 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
+* [swanky](https://github.com/GaloisInc/swanky) ⭐ 361 | 🐛 11 | 🌐 Sieve | 📅 2026-09-02 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
+* [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 325 | 🐛 43 | 🌐 C++ | 📅 2026-09-02 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
 * [MPZ](https://github.com/privacy-scaling-explorations/mpz) ⭐ 298 | 🐛 34 | 🌐 Rust | 📅 2026-07-12 - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
 * [JIFF](https://github.com/multiparty/jiff/) ⭐ 274 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-13 - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
 * [ABY3](https://github.com/ladnir/aby3) ⭐ 212 | 🐛 7 | 🌐 TeX | 📅 2026-02-27 - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
 * [MPC](https://github.com/markkurossi/mpc) ⭐ 133 | 🐛 2 | 🌐 Go | 📅 2026-06-16 - Go-based secure two-party computation framework combining a garbled-circuit runtime, the MPCL compiler, circuit tooling, OT primitives, and a WIP BMR implementation.
-* [Zama KMS](https://github.com/zama-ai/kms/) ⭐ 73 | 🐛 38 | 🌐 Rust | 📅 2026-09-01 - Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | [WAHC'23](https://eprint.iacr.org/2023/815), [Spec](https://github.com/zama-ai/threshold-fhe/blob/main/docs/CryptographicDocumentation.pdf) ⭐ 59 | 🐛 3 | 🌐 Rust | 📅 2026-02-05
-* [Stoffel](https://github.com/Stoffel-Labs/stoffel) ⭐ 70 | 🐛 3 | 🌐 Rust | 📅 2026-09-01 - A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.
+* [Zama KMS](https://github.com/zama-ai/kms/) ⭐ 73 | 🐛 37 | 🌐 Rust | 📅 2026-09-02 - Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | [WAHC'23](https://eprint.iacr.org/2023/815), [Spec](https://github.com/zama-ai/threshold-fhe/blob/main/docs/CryptographicDocumentation.pdf) ⭐ 59 | 🐛 3 | 🌐 Rust | 📅 2026-02-05
+* [Stoffel](https://github.com/Stoffel-Labs/stoffel) ⭐ 70 | 🐛 3 | 🌐 Rust | 📅 2026-09-02 - A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.
 * [MPC Framework](https://github.com/voltrevo/mpc-framework) ⚠️ Archived - TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports [summon](https://github.com/voltrevo/summon) ⚠️ Archived circuits and [emp-wasm-backend](https://github.com/voltrevo/emp-wasm-backend) ⚠️ Archived for malicious secure 2PC.
 * [HPMPC](https://github.com/chart21/hpmpc/) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-08-20 - HPMPC implements multiple MPC protocols and provides a high-level C++ interface to define functions and use cases. Out of the box, the framework supports computation in the boolean and arithmetic domain, mixed circuits, and fixed point arithmetic. Neural network models can be imported from PyTorch as part of [PIGEON](https://eprint.iacr.org/2024/1371.pdf).
 * [ORQ](https://github.com/CASP-Systems-BU/orq) ⭐ 19 | 🐛 3 | 🌐 C++ | 📅 2026-06-19 - General framework for relational analytics written in C++; includes fast sorting implementations and supports multiple protocols. | [SOSP'25](https://dl.acm.org/doi/10.1145/3731569.3764833)
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
