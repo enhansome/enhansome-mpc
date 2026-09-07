@@ -249,8 +249,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T19:32:23Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-07T15:46:39Z",
+                "open_issues": 35,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73,
@@ -270,8 +270,8 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T13:02:15Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-07T16:08:23Z",
+                "open_issues": 10,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 70,
@@ -405,8 +405,8 @@
                 "id": 73007955,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T20:26:35Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-07T15:17:52Z",
+                "open_issues": 6,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
                 "stars": 503,
@@ -635,7 +635,7 @@
                 "open_issues": 4,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1074,7 +1074,7 @@
                 "open_issues": 6,
                 "owner": "LatticeX-Foundation",
                 "repo": "Rosetta",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "federated-learning",
                   "homomorphic-encryption",
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:15:24.772Z",
+    "last_updated": "2026-09-07T23:48:24.356Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
