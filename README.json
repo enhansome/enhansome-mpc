@@ -49,7 +49,7 @@
                 "open_issues": 16,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1178,
+                "stars": 1179,
                 "topics": [
                   "confidential-computing",
                   "garbled-circuits",
@@ -80,7 +80,7 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-09-08T21:53:52Z",
+                "last_commit": "2026-09-10T21:57:25Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
@@ -249,8 +249,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T16:23:58Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-10T21:58:10Z",
+                "open_issues": 28,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73,
@@ -337,7 +337,7 @@
                 "open_issues": 0,
                 "owner": "chart21",
                 "repo": "hpmpc",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:32:22.535Z",
+    "last_updated": "2026-09-10T23:26:16.682Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
