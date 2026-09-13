@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T16:58:17Z",
+                "last_commit": "2026-09-13T14:20:51Z",
                 "open_issues": 43,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:27:07.676Z",
+    "last_updated": "2026-09-13T23:38:54.919Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
