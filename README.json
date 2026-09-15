@@ -80,11 +80,11 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-09-10T21:57:25Z",
+                "last_commit": "2026-09-14T19:00:25Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -191,7 +191,7 @@
                 "open_issues": 7,
                 "owner": "ladnir",
                 "repo": "aby3",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -249,7 +249,7 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T17:18:34Z",
+                "last_commit": "2026-09-14T20:23:41Z",
                 "open_issues": 23,
                 "owner": "zama-ai",
                 "repo": "kms",
@@ -895,7 +895,7 @@
                 "open_issues": 17,
                 "owner": "namnc",
                 "repo": "circom-2-arithc",
-                "stars": 58,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -964,7 +964,7 @@
                 "open_issues": 4,
                 "owner": "privacy-ethereum",
                 "repo": "summon",
-                "stars": 34,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:38:54.919Z",
+    "last_updated": "2026-09-15T00:00:53.305Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
