@@ -80,7 +80,7 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-09-14T19:00:25Z",
+                "last_commit": "2026-09-15T16:49:32Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T14:20:51Z",
+                "last_commit": "2026-09-15T17:15:18Z",
                 "open_issues": 43,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -130,7 +130,7 @@
                 "open_issues": 34,
                 "owner": "ethereum",
                 "repo": "mpz",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "cryptography",
                   "garbled-circuits",
@@ -249,8 +249,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T20:23:41Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-15T22:09:26Z",
+                "open_issues": 24,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73,
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:00:53.305Z",
+    "last_updated": "2026-09-15T23:45:24.477Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
