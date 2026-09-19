@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T17:15:18Z",
+                "last_commit": "2026-09-19T18:53:40Z",
                 "open_issues": 43,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -635,7 +635,7 @@
                 "open_issues": 4,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:38:21.305Z",
+    "last_updated": "2026-09-19T23:37:58.543Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",

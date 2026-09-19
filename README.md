@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 507,518 | 🐛 106 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 507,872 | 🐛 106 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -66,7 +66,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 * [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,184 | 🐛 11 | 🌐 C++ | 📅 2026-09-18 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
 * [swanky](https://github.com/GaloisInc/swanky) ⭐ 364 | 🐛 11 | 🌐 Sieve | 📅 2026-09-18 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
-* [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 327 | 🐛 43 | 🌐 C++ | 📅 2026-09-15 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
+* [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 327 | 🐛 43 | 🌐 C++ | 📅 2026-09-19 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
 * [MPZ](https://github.com/privacy-scaling-explorations/mpz) ⭐ 299 | 🐛 34 | 🌐 Rust | 📅 2026-07-12 - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
 * [JIFF](https://github.com/multiparty/jiff/) ⭐ 274 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-13 - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
 * [ABY3](https://github.com/ladnir/aby3) ⭐ 214 | 🐛 7 | 🌐 TeX | 📅 2026-02-27 - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
@@ -98,7 +98,7 @@ Here I tried to reference the most recent article found on specific software sin
 ### Protocols
 
 * [Blockchain-Crypto-MPC](https://github.com/unbound-tech/blockchain-crypto-mpc) ⭐ 479 | 🐛 2 | 🌐 C | 📅 2022-07-28 - Multiparty ECDSA signing in the cryptocurrency setting, includes an optimized GC library, OT, and more. | [CCS'18](https://eprint.iacr.org/2018/987).
-* [Fireblocks MPC](https://github.com/fireblocks/mpc-lib/) ⭐ 271 | 🐛 4 | 🌐 C++ | 📅 2026-07-30 - Multiparty ECDSA and EdDSA | eprint [2020/492](https://eprint.iacr.org/2020/492).
+* [Fireblocks MPC](https://github.com/fireblocks/mpc-lib/) ⭐ 272 | 🐛 4 | 🌐 C++ | 📅 2026-07-30 - Multiparty ECDSA and EdDSA | eprint [2020/492](https://eprint.iacr.org/2020/492).
 * [PSI](https://github.com/encryptogroup/PSI) ⭐ 190 | 🐛 9 | 🌐 C++ | 📅 2025-06-27 - Private Set Intersection. | [2014/447](https://eprint.iacr.org/2014/447).
 * [LibPSI](https://github.com/osu-crypto/libPSI) ⭐ 188 | 🐛 6 | 🌐 C++ | 📅 2024-12-23 - Various protocols for performing private set intersection.
 * [BaRK-OPRF](https://github.com/osu-crypto/BaRK-OPRF) ⭐ 84 | 🐛 6 | 🌐 C++ | 📅 2022-10-29 - Private Set Intersection. | [2016/799](https://eprint.iacr.org/2016/799).
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
