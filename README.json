@@ -270,8 +270,8 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T18:43:57Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-20T08:50:56Z",
+                "open_issues": 6,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 71,
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:37:58.543Z",
+    "last_updated": "2026-09-20T23:35:57.055Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
