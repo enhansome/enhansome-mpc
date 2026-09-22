@@ -45,8 +45,8 @@
                 "id": 152511277,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T07:36:29Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-22T01:50:21Z",
+                "open_issues": 9,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1185,
@@ -126,8 +126,8 @@
                 "id": 650666428,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-07-12T18:20:15Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-22T13:31:09Z",
+                "open_issues": 32,
                 "owner": "tlsnotary",
                 "repo": "mpz2",
                 "stars": 299,
@@ -191,7 +191,7 @@
                 "open_issues": 7,
                 "owner": "ladnir",
                 "repo": "aby3",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -249,8 +249,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T17:22:11Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-22T20:11:35Z",
+                "open_issues": 17,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73,
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:18:41.589Z",
+    "last_updated": "2026-09-22T23:52:23.606Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
