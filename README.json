@@ -46,7 +46,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T01:50:21Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1185,
@@ -80,11 +80,11 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-09-21T17:35:25Z",
+                "last_commit": "2026-09-23T18:25:23Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -249,8 +249,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T20:11:35Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-23T21:06:16Z",
+                "open_issues": 18,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73,
@@ -270,7 +270,7 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T15:58:59Z",
+                "last_commit": "2026-09-23T19:33:13Z",
                 "open_issues": 7,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
@@ -405,8 +405,8 @@
                 "id": 73007955,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T15:17:52Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-23T18:00:40Z",
+                "open_issues": 5,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
                 "stars": 503,
@@ -1053,7 +1053,7 @@
                 "open_issues": 94,
                 "owner": "facebookresearch",
                 "repo": "CrypTen",
-                "stars": 1649,
+                "stars": 1648,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:52:23.606Z",
+    "last_updated": "2026-09-24T00:00:16.196Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
