@@ -333,7 +333,7 @@
                 "id": 658841760,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:49:12Z",
+                "last_commit": "2026-10-03T04:47:50Z",
                 "open_issues": 0,
                 "owner": "chart21",
                 "repo": "hpmpc",
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:45:55.155Z",
+    "last_updated": "2026-10-03T04:56:19.838Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
