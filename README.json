@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T13:03:10Z",
+                "last_commit": "2026-10-06T02:33:45Z",
                 "open_issues": 43,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -291,8 +291,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T21:01:28Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-06T10:05:07Z",
+                "open_issues": 23,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73,
@@ -333,7 +333,7 @@
                 "id": 658841760,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-06T01:53:44Z",
+                "last_commit": "2026-10-06T05:41:31Z",
                 "open_issues": 0,
                 "owner": "chart21",
                 "repo": "hpmpc",
@@ -635,7 +635,7 @@
                 "open_issues": 1,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 272,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:56:47.133Z",
+    "last_updated": "2026-10-06T11:03:44.101Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
