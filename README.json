@@ -80,11 +80,11 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-09-28T21:19:57Z",
+                "last_commit": "2026-10-05T18:25:22Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
-                "stars": 365,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -130,7 +130,7 @@
                 "open_issues": 26,
                 "owner": "tlsnotary",
                 "repo": "mpz2",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "cryptography",
                   "garbled-circuits",
@@ -239,27 +239,6 @@
             },
             {
               "node_type": "item",
-              "title": "Zama KMS",
-              "description": "Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | WAHC'23, Spec",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Key Management System for the Zama Protocol.",
-                "homepage": null,
-                "id": 1013287098,
-                "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-04T14:55:54Z",
-                "open_issues": 17,
-                "owner": "zama-ai",
-                "repo": "kms",
-                "stars": 73,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:50:17.936Z"
-            },
-            {
-              "node_type": "item",
               "title": "Stoffel",
               "description": "A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.",
               "children": [],
@@ -274,7 +253,7 @@
                 "open_issues": 11,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "confidential-computing",
                   "cryptography",
@@ -297,6 +276,27 @@
                   "threshold-cryptography",
                   "virtual-machine"
                 ]
+              },
+              "first_seen": "2026-08-28T05:50:17.936Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Zama KMS",
+              "description": "Zama's MPC-based key management system for threshold key generation and threshold decryption for FHE. | WAHC'23, Spec",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Key Management System for the Zama Protocol.",
+                "homepage": null,
+                "id": 1013287098,
+                "language": "Rust",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-05T21:01:28Z",
+                "open_issues": 24,
+                "owner": "zama-ai",
+                "repo": "kms",
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -333,7 +333,7 @@
                 "id": 658841760,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-04T22:43:35Z",
+                "last_commit": "2026-10-06T01:53:44Z",
                 "open_issues": 0,
                 "owner": "chart21",
                 "repo": "hpmpc",
@@ -381,7 +381,7 @@
                 "open_issues": 0,
                 "owner": "akhilsb",
                 "repo": "Velox-MPC",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -632,10 +632,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-30T14:27:41Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 273,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T00:13:33.052Z",
+    "last_updated": "2026-10-06T01:56:47.133Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
@@ -1597,7 +1597,7 @@
       "open_issues": 8,
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1997,
+      "stars": 1996,
       "topics": [
         "crypto",
         "multiparty-computation",
