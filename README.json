@@ -80,7 +80,7 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:25:22Z",
+                "last_commit": "2026-10-06T20:01:05Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
@@ -105,7 +105,7 @@
                 "open_issues": 43,
                 "owner": "secretflow",
                 "repo": "spu",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "privacy-preserving",
                   "private-set-intersection",
@@ -249,7 +249,7 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:01:38Z",
+                "last_commit": "2026-10-06T23:24:56Z",
                 "open_issues": 11,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
@@ -291,8 +291,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:05:07Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-06T15:42:05Z",
+                "open_issues": 22,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 73,
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:44.101Z",
+    "last_updated": "2026-10-07T01:02:42.983Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
