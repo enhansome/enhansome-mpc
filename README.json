@@ -45,8 +45,8 @@
                 "id": 152511277,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T02:26:04Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-07T06:31:47Z",
+                "open_issues": 8,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1188,
@@ -249,8 +249,8 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T23:24:56Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-07T22:59:30Z",
+                "open_issues": 8,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 73,
@@ -291,11 +291,11 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T15:42:05Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-07T22:04:21Z",
+                "open_issues": 26,
                 "owner": "zama-ai",
                 "repo": "kms",
-                "stars": 73,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:02:42.983Z",
+    "last_updated": "2026-10-08T01:21:29.802Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
@@ -1597,7 +1597,7 @@
       "open_issues": 8,
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1996,
+      "stars": 1995,
       "topics": [
         "crypto",
         "multiparty-computation",
