@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1188,
+                "stars": 1190,
                 "topics": [
                   "confidential-computing",
                   "garbled-circuits",
@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T02:33:45Z",
+                "last_commit": "2026-10-08T14:58:01Z",
                 "open_issues": 43,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -126,7 +126,7 @@
                 "id": 650666428,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-25T14:04:11Z",
+                "last_commit": "2026-10-08T16:34:20Z",
                 "open_issues": 26,
                 "owner": "tlsnotary",
                 "repo": "mpz2",
@@ -159,7 +159,7 @@
                 "open_issues": 53,
                 "owner": "multiparty",
                 "repo": "jiff",
-                "stars": 275,
+                "stars": 276,
                 "topics": [
                   "cybersecurity",
                   "javascript",
@@ -249,7 +249,7 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:59:30Z",
+                "last_commit": "2026-10-08T20:56:26Z",
                 "open_issues": 8,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
@@ -291,7 +291,7 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T22:04:21Z",
+                "last_commit": "2026-10-08T16:06:18Z",
                 "open_issues": 26,
                 "owner": "zama-ai",
                 "repo": "kms",
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:21:29.802Z",
+    "last_updated": "2026-10-09T01:29:50.611Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
