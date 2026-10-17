@@ -295,7 +295,7 @@
                 "open_issues": 28,
                 "owner": "zama-ai",
                 "repo": "kms",
-                "stars": 72,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:57:36.501Z",
+    "last_updated": "2026-10-17T23:30:15.502Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
