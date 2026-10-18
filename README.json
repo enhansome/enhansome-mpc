@@ -291,8 +291,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T16:37:41Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-18T18:52:57Z",
+                "open_issues": 29,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 74,
@@ -635,7 +635,7 @@
                 "open_issues": 1,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:30:15.502Z",
+    "last_updated": "2026-10-18T23:43:26.239Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
