@@ -80,7 +80,7 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-10-19T23:28:06Z",
+                "last_commit": "2026-10-20T18:11:27Z",
                 "open_issues": 16,
                 "owner": "GaloisInc",
                 "repo": "swanky",
@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T16:27:57Z",
+                "last_commit": "2026-10-20T12:44:00Z",
                 "open_issues": 38,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -291,8 +291,8 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T17:40:14Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-20T13:57:48Z",
+                "open_issues": 31,
                 "owner": "zama-ai",
                 "repo": "kms",
                 "stars": 74,
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:43:41.035Z",
+    "last_updated": "2026-10-21T00:10:33.099Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
@@ -1597,7 +1597,7 @@
       "open_issues": 8,
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1996,
+      "stars": 1997,
       "topics": [
         "crypto",
         "multiparty-computation",
