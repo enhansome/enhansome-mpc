@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T18:14:05Z",
+                "last_commit": "2026-10-22T05:56:41Z",
                 "open_issues": 38,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -249,7 +249,7 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T15:08:26Z",
+                "last_commit": "2026-10-22T06:56:32Z",
                 "open_issues": 9,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
@@ -291,7 +291,7 @@
                 "id": 1013287098,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T16:48:58Z",
+                "last_commit": "2026-10-22T16:56:21Z",
                 "open_issues": 29,
                 "owner": "zama-ai",
                 "repo": "kms",
@@ -635,7 +635,7 @@
                 "open_issues": 1,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 274,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -816,7 +816,7 @@
                 "open_issues": 15,
                 "owner": "MPC-SoK",
                 "repo": "frameworks",
-                "stars": 519,
+                "stars": 520,
                 "topics": [
                   "cryptography",
                   "mpc",
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:16:00.018Z",
+    "last_updated": "2026-10-23T00:12:49.799Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
