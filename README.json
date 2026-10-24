@@ -1130,7 +1130,7 @@
                 "open_issues": 63,
                 "owner": "mpc-msri",
                 "repo": "EzPC",
-                "stars": 450,
+                "stars": 451,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:04:57.833Z",
+    "last_updated": "2026-10-24T23:47:49.407Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
