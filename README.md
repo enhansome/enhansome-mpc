@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 524,163 | 🐛 105 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 524,652 | 🐛 105 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -86,7 +86,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Primitives
 
-* [LibOTe](https://github.com/osu-crypto/libOTe) ⭐ 503 | 🐛 7 | 🌐 C++ | 📅 2026-10-23 - Library with various OT Extensions.
+* [LibOTe](https://github.com/osu-crypto/libOTe) ⭐ 503 | 🐛 8 | 🌐 C++ | 📅 2026-10-23 - Library with various OT Extensions.
 * [SCAPI](https://github.com/cryptobiu/libscapi) ⭐ 187 | 🐛 14 | 🌐 C++ | 📅 2023-07-20 - Various secure computation API's carefully documented with a clean code design in mind. | [2012/629](http://eprint.iacr.org/2012/629).
 * [TSS](https://github.com/snipsco/rust-threshold-secret-sharing) ⭐ 170 | 🐛 5 | 🌐 Rust | 📅 2018-10-28 - A pure-Rust implementation of various threshold secret sharing schemes.
 * [OT Extension](https://github.com/encryptogroup/OTExtension) ⭐ 129 | 🐛 11 | 🌐 C++ | 📅 2020-11-13 - OT Extension secure against malicious adversaries. | [2015/061](https://eprint.iacr.org/2015/061).
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

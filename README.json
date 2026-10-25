@@ -406,7 +406,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T21:24:12Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
                 "stars": 503,
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:47:49.407Z",
+    "last_updated": "2026-10-25T23:36:34.002Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
@@ -1594,7 +1594,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-24T13:46:57Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "rdragos",
       "repo": "awesome-mpc",
       "stars": 1997,
