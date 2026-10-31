@@ -102,7 +102,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T12:09:39Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "secretflow",
                 "repo": "spu",
                 "stars": 330,
@@ -126,7 +126,7 @@
                 "id": 650666428,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-29T13:33:47Z",
+                "last_commit": "2026-10-30T13:41:20Z",
                 "open_issues": 19,
                 "owner": "tlsnotary",
                 "repo": "mpz2",
@@ -249,7 +249,7 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T14:58:13Z",
+                "last_commit": "2026-10-30T14:38:38Z",
                 "open_issues": 11,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
@@ -388,7 +388,7 @@
                 "open_issues": 6,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
-                "stars": 503,
+                "stars": 504,
                 "topics": [
                   "delta-ot",
                   "oblivious-transfer",
@@ -614,7 +614,7 @@
                 "open_issues": 1,
                 "owner": "fireblocks",
                 "repo": "mpc-lib",
-                "stars": 272,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:22:13.316Z",
+    "last_updated": "2026-10-31T01:05:56.246Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
