@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 527,528 | 🐛 105 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 528,036 | 🐛 105 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -89,7 +89,7 @@ Here I tried to reference the most recent article found on specific software sin
 * [LibOTe](https://github.com/osu-crypto/libOTe) ⭐ 504 | 🐛 6 | 🌐 C++ | 📅 2026-10-26 - Library with various OT Extensions.
 * [SCAPI](https://github.com/cryptobiu/libscapi) ⭐ 187 | 🐛 14 | 🌐 C++ | 📅 2023-07-20 - Various secure computation API's carefully documented with a clean code design in mind. | [2012/629](http://eprint.iacr.org/2012/629).
 * [TSS](https://github.com/snipsco/rust-threshold-secret-sharing) ⭐ 170 | 🐛 5 | 🌐 Rust | 📅 2018-10-28 - A pure-Rust implementation of various threshold secret sharing schemes.
-* [OT Extension](https://github.com/encryptogroup/OTExtension) ⭐ 129 | 🐛 11 | 🌐 C++ | 📅 2020-11-13 - OT Extension secure against malicious adversaries. | [2015/061](https://eprint.iacr.org/2015/061).
+* [OT Extension](https://github.com/encryptogroup/OTExtension) ⭐ 128 | 🐛 11 | 🌐 C++ | 📅 2020-11-13 - OT Extension secure against malicious adversaries. | [2015/061](https://eprint.iacr.org/2015/061).
 * [Distributed Vector-OLE](https://github.com/schoppmp/distributed-vector-ole) ⭐ 31 | 🐛 1 | 🌐 C++ | 📅 2021-01-17 - A two-party generator for Vector-OLE correlations. [CCS'19](https://eprint.iacr.org/2019/1084.pdf).
 * [APRICOT](https://github.com/bristolcrypto/apricot) ⚠️ Archived - OT Extension secure against malicious adversaries. | [2015/546](http://eprint.iacr.org/2015/546).
 * [SplitCommit](https://github.com/AarhusCrypto/SplitCommit) ⭐ 10 | 🐛 0 | 🌐 C++ | 📅 2017-05-22 - Additively homomorphic commitment scheme. | [2015/694](http://eprint.iacr.org/2015/694).
@@ -99,7 +99,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 * [Blockchain-Crypto-MPC](https://github.com/unbound-tech/blockchain-crypto-mpc) ⭐ 479 | 🐛 2 | 🌐 C | 📅 2022-07-28 - Multiparty ECDSA signing in the cryptocurrency setting, includes an optimized GC library, OT, and more. | [CCS'18](https://eprint.iacr.org/2018/987).
 * [Fireblocks MPC](https://github.com/fireblocks/mpc-lib/) ⭐ 273 | 🐛 1 | 🌐 C++ | 📅 2026-07-30 - Multiparty ECDSA and EdDSA | eprint [2020/492](https://eprint.iacr.org/2020/492).
-* [PSI](https://github.com/encryptogroup/PSI) ⭐ 190 | 🐛 9 | 🌐 C++ | 📅 2025-06-27 - Private Set Intersection. | [2014/447](https://eprint.iacr.org/2014/447).
+* [PSI](https://github.com/encryptogroup/PSI) ⭐ 189 | 🐛 9 | 🌐 C++ | 📅 2025-06-27 - Private Set Intersection. | [2014/447](https://eprint.iacr.org/2014/447).
 * [LibPSI](https://github.com/osu-crypto/libPSI) ⭐ 187 | 🐛 6 | 🌐 C++ | 📅 2024-12-23 - Various protocols for performing private set intersection.
 * [BaRK-OPRF](https://github.com/osu-crypto/BaRK-OPRF) ⭐ 84 | 🐛 6 | 🌐 C++ | 📅 2022-10-29 - Private Set Intersection. | [2016/799](https://eprint.iacr.org/2016/799).
 * [Prio](https://github.com/mozilla/libprio) ⚠️ Archived - Private aggregation with SNIPs (secret-shared non-interactive proofs). | [NSDI'17](https://crypto.stanford.edu/prio/paper.pdf).
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

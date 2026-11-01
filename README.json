@@ -463,7 +463,7 @@
                 "open_issues": 11,
                 "owner": "encryptogroup",
                 "repo": "OTExtension",
-                "stars": 129,
+                "stars": 128,
                 "topics": [
                   "encrypto",
                   "oblivious-transfer",
@@ -635,7 +635,7 @@
                 "open_issues": 9,
                 "owner": "encryptogroup",
                 "repo": "PSI",
-                "stars": 190,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:05:56.246Z",
+    "last_updated": "2026-11-01T00:28:16.648Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
@@ -1576,7 +1576,7 @@
       "open_issues": 9,
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1996,
+      "stars": 1997,
       "topics": [
         "crypto",
         "multiparty-computation",
