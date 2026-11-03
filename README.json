@@ -46,10 +46,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T02:06:02Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1195,
+                "stars": 1197,
                 "topics": [
                   "confidential-computing",
                   "garbled-circuits",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:03:38.011Z",
+    "last_updated": "2026-11-03T03:05:52.605Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
