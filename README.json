@@ -80,7 +80,7 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-11-04T20:56:36Z",
+                "last_commit": "2026-11-06T01:07:24Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
@@ -1109,7 +1109,7 @@
                 "open_issues": 63,
                 "owner": "mpc-msri",
                 "repo": "EzPC",
-                "stars": 451,
+                "stars": 450,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:50:54.447Z",
+    "last_updated": "2026-11-06T01:50:09.785Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
