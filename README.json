@@ -45,8 +45,8 @@
                 "id": 152511277,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T01:13:51Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-09T01:03:46Z",
+                "open_issues": 17,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1197,
@@ -250,7 +250,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T23:11:59Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 76,
@@ -1109,7 +1109,7 @@
                 "open_issues": 63,
                 "owner": "mpc-msri",
                 "repo": "EzPC",
-                "stars": 450,
+                "stars": 451,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:55:55.856Z",
+    "last_updated": "2026-11-09T01:15:06.478Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
