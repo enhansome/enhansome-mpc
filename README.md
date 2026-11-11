@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 534,350 | 🐛 103 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 534,898 | 🐛 103 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -64,14 +64,14 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Frameworks
 
-* [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,197 | 🐛 14 | 🌐 C++ | 📅 2026-11-10 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
-* [swanky](https://github.com/GaloisInc/swanky) ⭐ 366 | 🐛 11 | 🌐 Sieve | 📅 2026-11-09 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
+* [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,197 | 🐛 11 | 🌐 C++ | 📅 2026-11-10 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
+* [swanky](https://github.com/GaloisInc/swanky) ⭐ 367 | 🐛 11 | 🌐 Sieve | 📅 2026-11-10 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
 * [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 330 | 🐛 40 | 🌐 C++ | 📅 2026-11-09 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
-* [MPZ](https://github.com/privacy-scaling-explorations/mpz) ⭐ 303 | 🐛 19 | 🌐 Rust | 📅 2026-10-30 - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
+* [MPZ](https://github.com/privacy-scaling-explorations/mpz) ⭐ 304 | 🐛 19 | 🌐 Rust | 📅 2026-10-30 - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
 * [JIFF](https://github.com/multiparty/jiff/) ⭐ 276 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-13 - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
 * [ABY3](https://github.com/ladnir/aby3) ⭐ 215 | 🐛 7 | 🌐 TeX | 📅 2026-02-27 - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
 * [MPC](https://github.com/markkurossi/mpc) ⭐ 133 | 🐛 2 | 🌐 Go | 📅 2026-06-16 - Go-based secure two-party computation framework combining a garbled-circuit runtime, the MPCL compiler, circuit tooling, OT primitives, and a WIP BMR implementation.
-* [Stoffel](https://github.com/Stoffel-Labs/stoffel) ⭐ 76 | 🐛 5 | 🌐 Rust | 📅 2026-11-10 - A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.
+* [Stoffel](https://github.com/Stoffel-Labs/stoffel) ⭐ 75 | 🐛 5 | 🌐 Rust | 📅 2026-11-10 - A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.
 * [MPC Framework](https://github.com/voltrevo/mpc-framework) ⚠️ Archived - TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports [summon](https://github.com/voltrevo/summon) ⚠️ Archived circuits and [emp-wasm-backend](https://github.com/voltrevo/emp-wasm-backend) ⚠️ Archived for malicious secure 2PC.
 * [HPMPC](https://github.com/chart21/hpmpc/) ⭐ 35 | 🐛 0 | 🌐 C | 📅 2026-10-23 - HPMPC implements multiple MPC protocols and provides a high-level C++ interface to define functions and use cases. Out of the box, the framework supports computation in the boolean and arithmetic domain, mixed circuits, and fixed point arithmetic. Neural network models can be imported from PyTorch as part of [PIGEON](https://eprint.iacr.org/2024/1371.pdf).
 * [ORQ](https://github.com/CASP-Systems-BU/orq) ⭐ 19 | 🐛 3 | 🌐 C++ | 📅 2026-06-19 - General framework for relational analytics written in C++; includes fast sorting implementations and supports multiple protocols. | [SOSP'25](https://dl.acm.org/doi/10.1145/3731569.3764833)
@@ -86,7 +86,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Primitives
 
-* [LibOTe](https://github.com/osu-crypto/libOTe) ⭐ 505 | 🐛 7 | 🌐 C++ | 📅 2026-11-06 - Library with various OT Extensions.
+* [LibOTe](https://github.com/osu-crypto/libOTe) ⭐ 506 | 🐛 7 | 🌐 C++ | 📅 2026-11-06 - Library with various OT Extensions.
 * [SCAPI](https://github.com/cryptobiu/libscapi) ⭐ 187 | 🐛 14 | 🌐 C++ | 📅 2023-07-20 - Various secure computation API's carefully documented with a clean code design in mind. | [2012/629](http://eprint.iacr.org/2012/629).
 * [TSS](https://github.com/snipsco/rust-threshold-secret-sharing) ⭐ 170 | 🐛 5 | 🌐 Rust | 📅 2018-10-28 - A pure-Rust implementation of various threshold secret sharing schemes.
 * [OT Extension](https://github.com/encryptogroup/OTExtension) ⭐ 128 | 🐛 11 | 🌐 C++ | 📅 2020-11-13 - OT Extension secure against malicious adversaries. | [2015/061](https://eprint.iacr.org/2015/061).
@@ -112,7 +112,7 @@ Here I tried to reference the most recent article found on specific software sin
 ### Tools
 
 * [MPC-SoK](https://github.com/MPC-SoK/frameworks) ⭐ 520 | 🐛 15 | 🌐 C++ | 📅 2024-12-12 - Build environments for many MPC frameworks using Docker containers. | [S\&P19](https://marsella.github.io/static/mpcsok.pdf).
-* [Tiny-Garble](https://github.com/esonghori/TinyGarble) ⭐ 128 | 🐛 0 | 🌐 C++ | 📅 2026-08-19 -  Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits. | [S\&P'15](http://aceslab.org/sites/default/files/TinyGarble.pdf).
+* [Tiny-Garble](https://github.com/esonghori/TinyGarble) ⭐ 129 | 🐛 0 | 🌐 C++ | 📅 2026-08-19 -  Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits. | [S\&P'15](http://aceslab.org/sites/default/files/TinyGarble.pdf).
 * [Conclave](https://github.com/multiparty/conclave) ⭐ 100 | 🐛 10 | 🌐 Python | 📅 2020-08-18 - Big Data query compiler that combines cleartext processing with Spark and MPC protocols. | [EuroSys19](https://arxiv.org/abs/1902.06288).
 * [Circom 2 Arithc](https://github.com/namnc/circom-2-arithc/) ⭐ 57 | 🐛 17 | 🌐 Rust | 📅 2024-09-12 - Compiles bristol circuits for MPC from circom code.
 * [Garble-Lang](https://github.com/sine-fdn/garble-lang) ⭐ 54 | 🐛 26 | 🌐 Rust | 📅 2026-04-22 - Programming language for MPC with Garbled Circuits. Garble is statically typed, low-level, purely functional and uses a syntax heavily inspired by Rust.
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

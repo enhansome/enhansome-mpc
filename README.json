@@ -46,7 +46,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-10T03:29:22Z",
-                "open_issues": 14,
+                "open_issues": 11,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1197,
@@ -80,11 +80,11 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-11-09T20:25:31Z",
+                "last_commit": "2026-11-10T22:14:23Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
-                "stars": 366,
+                "stars": 367,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -130,7 +130,7 @@
                 "open_issues": 19,
                 "owner": "tlsnotary",
                 "repo": "mpz2",
-                "stars": 303,
+                "stars": 304,
                 "topics": [
                   "cryptography",
                   "garbled-circuits",
@@ -249,11 +249,11 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T01:22:50Z",
+                "last_commit": "2026-11-10T21:02:54Z",
                 "open_issues": 5,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
-                "stars": 76,
+                "stars": 75,
                 "topics": [
                   "confidential-computing",
                   "cryptography",
@@ -388,7 +388,7 @@
                 "open_issues": 7,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
-                "stars": 505,
+                "stars": 506,
                 "topics": [
                   "delta-ot",
                   "oblivious-transfer",
@@ -820,7 +820,7 @@
                 "open_issues": 0,
                 "owner": "esonghori",
                 "repo": "TinyGarble",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "circuit-description",
                   "garbled-circuits",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:51:06.420Z",
+    "last_updated": "2026-11-11T01:29:36.022Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
