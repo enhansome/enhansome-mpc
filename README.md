@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 534,898 | 🐛 103 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 535,406 | 🐛 103 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -64,9 +64,9 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Frameworks
 
-* [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,197 | 🐛 11 | 🌐 C++ | 📅 2026-11-10 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
-* [swanky](https://github.com/GaloisInc/swanky) ⭐ 367 | 🐛 11 | 🌐 Sieve | 📅 2026-11-10 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
-* [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 330 | 🐛 40 | 🌐 C++ | 📅 2026-11-09 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
+* [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,198 | 🐛 10 | 🌐 C++ | 📅 2026-11-11 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
+* [swanky](https://github.com/GaloisInc/swanky) ⭐ 368 | 🐛 11 | 🌐 Sieve | 📅 2026-11-11 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
+* [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 330 | 🐛 40 | 🌐 C++ | 📅 2026-11-11 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
 * [MPZ](https://github.com/privacy-scaling-explorations/mpz) ⭐ 304 | 🐛 19 | 🌐 Rust | 📅 2026-10-30 - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
 * [JIFF](https://github.com/multiparty/jiff/) ⭐ 276 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-13 - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
 * [ABY3](https://github.com/ladnir/aby3) ⭐ 215 | 🐛 7 | 🌐 TeX | 📅 2026-02-27 - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
@@ -129,7 +129,7 @@ The software in this category has either been declared retired by the creators (
 
 * [CrypTen](https://github.com/facebookresearch/CrypTen) ⚠️ Archived - MPC with secret sharing; secure against semi-honest adversary; focused on building PyTorch applications. | documentation: [link](https://crypten.ai/)
 * [Rosetta](https://github.com/LatticeX-Foundation/Rosetta/) ⭐ 551 | 🐛 6 | 🌐 C++ | 📅 2022-04-26 - 3PC with secret sharing; secure against semi-honest adversaries; focused on reusing the APIs of TensorFlow and allowing to transfer traditional TensorFlow codes into a privacy-preserving manner with minimal changes.
-* [ABY](https://github.com/encryptogroup/ABY) ⭐ 499 | 🐛 69 | 🌐 C++ | 📅 2026-10-13 - 2PC with secret sharing and garbled circuits; secure against semi-honest adversaries. | [NDSS'15](http://encrypto.de/papers/DSZ15.pdf).
+* [ABY](https://github.com/encryptogroup/ABY) ⭐ 499 | 🐛 69 | 🌐 C++ | 📅 2026-11-11 - 2PC with secret sharing and garbled circuits; secure against semi-honest adversaries. | [NDSS'15](http://encrypto.de/papers/DSZ15.pdf).
 * [EzPC](https://github.com/mpc-msri/EzPC) ⭐ 451 | 🐛 63 | 🌐 C++ | 📅 2026-04-28 - Offers a suite of tools for secure machine learning using semi-honest MPC protocols. It includes a language for secure machine learning, compilers for TensorFlow/Onnx to various MPC protocols, and frameworks for training and inference on deep neural networks. It provides an end-to-end solution for secure machine learning. | documentation: [link](https://github.com/mpc-msri/EzPC) ⭐ 451 | 🐛 63 | 🌐 C++ | 📅 2026-04-28. End-to-End Platform: [link](https://github.com/microsoft/private-benchmarking) ⚠️ Archived
 * [Tandem](https://github.com/sine-fdn/tandem) ⚠️ Archived - 2PC with garbled circuits written in Rust; secure against malicious adversaries.
 * [HoneyBadgerMPC](https://github.com/initc3/HoneyBadgerMPC) ⭐ 137 | 🐛 66 | 🌐 Python | 📅 2021-08-17 - Robust MPC-based confidentiality layer for blockchains with guaranteed output delivery; secure against up to t < n/3 malicious parties.
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

@@ -45,11 +45,11 @@
                 "id": 152511277,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T03:29:22Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-11T03:28:55Z",
+                "open_issues": 10,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1197,
+                "stars": 1198,
                 "topics": [
                   "confidential-computing",
                   "garbled-circuits",
@@ -80,11 +80,11 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-11-10T22:14:23Z",
+                "last_commit": "2026-11-11T02:10:52Z",
                 "open_issues": 11,
                 "owner": "GaloisInc",
                 "repo": "swanky",
-                "stars": 367,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T22:08:36Z",
+                "last_commit": "2026-11-11T02:17:27Z",
                 "open_issues": 40,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -1077,7 +1077,7 @@
                 "id": 27261743,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-13T19:03:12Z",
+                "last_commit": "2026-11-11T14:28:32Z",
                 "open_issues": 69,
                 "owner": "encryptogroup",
                 "repo": "ABY",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:29:36.022Z",
+    "last_updated": "2026-11-12T02:33:02.958Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
@@ -1576,7 +1576,7 @@
       "open_issues": 9,
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1996,
+      "stars": 1997,
       "topics": [
         "crypto",
         "multiparty-computation",
