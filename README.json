@@ -384,8 +384,8 @@
                 "id": 73007955,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T16:54:49Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-15T15:05:24Z",
+                "open_issues": 7,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
                 "stars": 506,
@@ -1032,7 +1032,7 @@
                 "open_issues": 94,
                 "owner": "facebookresearch",
                 "repo": "CrypTen",
-                "stars": 1648,
+                "stars": 1647,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:20:56.919Z",
+    "last_updated": "2026-11-16T01:26:12.884Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
