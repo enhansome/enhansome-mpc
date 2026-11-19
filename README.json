@@ -45,8 +45,8 @@
                 "id": 152511277,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T02:56:47Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-18T23:50:43Z",
+                "open_issues": 12,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1199,
@@ -101,8 +101,8 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T20:53:24Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-18T19:43:11Z",
+                "open_issues": 46,
                 "owner": "secretflow",
                 "repo": "spu",
                 "stars": 330,
@@ -846,7 +846,7 @@
                 "open_issues": 10,
                 "owner": "multiparty",
                 "repo": "conclave",
-                "stars": 100,
+                "stars": 99,
                 "topics": [
                   "cybersecurity",
                   "mpc",
@@ -1081,7 +1081,7 @@
                 "open_issues": 69,
                 "owner": "encryptogroup",
                 "repo": "ABY",
-                "stars": 499,
+                "stars": 498,
                 "topics": [
                   "circuit",
                   "encrypto",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:10:10.517Z",
+    "last_updated": "2026-11-19T02:50:57.274Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
