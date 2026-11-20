@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 539,070 | 🐛 104 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 539,569 | 🐛 103 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -64,12 +64,12 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Frameworks
 
-* [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,199 | 🐛 12 | 🌐 C++ | 📅 2026-11-18 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
-* [swanky](https://github.com/GaloisInc/swanky) ⭐ 369 | 🐛 11 | 🌐 Sieve | 📅 2026-11-18 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
+* [MP-SPDZ](https://github.com/data61/MP-SPDZ) ⭐ 1,199 | 🐛 9 | 🌐 C++ | 📅 2026-11-20 - MPC with garbled circuits or secret sharing; secure against malicious or semi-honest adversaries with dishonest or honest majority. | [documentation](https://mp-spdz.readthedocs.io/en/latest/) | eprint: [2020/512](https://eprint.iacr.org/2020/521)
+* [swanky](https://github.com/GaloisInc/swanky) ⭐ 368 | 🐛 12 | 🌐 Sieve | 📅 2026-11-18 - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
 * [SecretFlow-SPU](https://github.com/secretflow/spu) ⭐ 330 | 🐛 46 | 🌐 C++ | 📅 2026-11-18 - A domain-specific compiler and runtime suite, that aims to provide a secure computation service with provable security. SPU compiler uses XLA as its front-end Intermediate Representation (IR) and SPU runtime implements various MPC protocols. | [USENIX ATC'23](https://www.usenix.org/system/files/atc23-ma.pdf).
-* [MPZ](https://github.com/privacy-scaling-explorations/mpz) ⭐ 304 | 🐛 19 | 🌐 Rust | 📅 2026-10-30 - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
-* [JIFF](https://github.com/multiparty/jiff/) ⭐ 276 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-13 - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
-* [ABY3](https://github.com/ladnir/aby3) ⭐ 215 | 🐛 7 | 🌐 TeX | 📅 2026-02-27 - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
+* [MPZ](https://github.com/privacy-scaling-explorations/mpz) ⭐ 303 | 🐛 19 | 🌐 Rust | 📅 2026-10-30 - A collection of multi-party computation libraries written in Rust 🦀. Strives to provide safe, performant, modular and portable MPC software with a focus on usability.
+* [JIFF](https://github.com/multiparty/jiff/) ⭐ 275 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-13 - JavaScript client and server libraries for building web-based applications that employ general purpose MPC; secure against semi-honest adversaries. | documentation: [link](https://multiparty.org/jiff/).
+* [ABY3](https://github.com/ladnir/aby3) ⭐ 214 | 🐛 7 | 🌐 TeX | 📅 2026-02-27 - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
 * [MPC](https://github.com/markkurossi/mpc) ⭐ 133 | 🐛 2 | 🌐 Go | 📅 2026-06-16 - Go-based secure two-party computation framework combining a garbled-circuit runtime, the MPCL compiler, circuit tooling, OT primitives, and a WIP BMR implementation.
 * [Stoffel](https://github.com/Stoffel-Labs/stoffel) ⭐ 74 | 🐛 6 | 🌐 Rust | 📅 2026-11-18 - A framework for robust MPC protocols which includes a custom compiler, VM runtime, SDKs targeted at developers with minimal MPC knowledge.
 * [MPC Framework](https://github.com/voltrevo/mpc-framework) ⚠️ Archived - TypeScript framework for doing MPC with multiple techniques for generating circuits and MPC backends. In particular, it supports [summon](https://github.com/voltrevo/summon) ⚠️ Archived circuits and [emp-wasm-backend](https://github.com/voltrevo/emp-wasm-backend) ⚠️ Archived for malicious secure 2PC.
@@ -86,7 +86,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Primitives
 
-* [LibOTe](https://github.com/osu-crypto/libOTe) ⭐ 506 | 🐛 7 | 🌐 C++ | 📅 2026-11-17 - Library with various OT Extensions.
+* [LibOTe](https://github.com/osu-crypto/libOTe) ⭐ 507 | 🐛 10 | 🌐 C++ | 📅 2026-11-17 - Library with various OT Extensions.
 * [SCAPI](https://github.com/cryptobiu/libscapi) ⭐ 187 | 🐛 14 | 🌐 C++ | 📅 2023-07-20 - Various secure computation API's carefully documented with a clean code design in mind. | [2012/629](http://eprint.iacr.org/2012/629).
 * [TSS](https://github.com/snipsco/rust-threshold-secret-sharing) ⭐ 170 | 🐛 5 | 🌐 Rust | 📅 2018-10-28 - A pure-Rust implementation of various threshold secret sharing schemes.
 * [OT Extension](https://github.com/encryptogroup/OTExtension) ⭐ 128 | 🐛 11 | 🌐 C++ | 📅 2020-11-13 - OT Extension secure against malicious adversaries. | [2015/061](https://eprint.iacr.org/2015/061).
@@ -111,7 +111,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Tools
 
-* [MPC-SoK](https://github.com/MPC-SoK/frameworks) ⭐ 521 | 🐛 15 | 🌐 C++ | 📅 2024-12-12 - Build environments for many MPC frameworks using Docker containers. | [S\&P19](https://marsella.github.io/static/mpcsok.pdf).
+* [MPC-SoK](https://github.com/MPC-SoK/frameworks) ⭐ 520 | 🐛 15 | 🌐 C++ | 📅 2024-12-12 - Build environments for many MPC frameworks using Docker containers. | [S\&P19](https://marsella.github.io/static/mpcsok.pdf).
 * [Tiny-Garble](https://github.com/esonghori/TinyGarble) ⭐ 130 | 🐛 0 | 🌐 C++ | 📅 2026-08-19 -  Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits. | [S\&P'15](http://aceslab.org/sites/default/files/TinyGarble.pdf).
 * [Conclave](https://github.com/multiparty/conclave) ⭐ 99 | 🐛 10 | 🌐 Python | 📅 2020-08-18 - Big Data query compiler that combines cleartext processing with Spark and MPC protocols. | [EuroSys19](https://arxiv.org/abs/1902.06288).
 * [Circom 2 Arithc](https://github.com/namnc/circom-2-arithc/) ⭐ 57 | 🐛 17 | 🌐 Rust | 📅 2024-09-12 - Compiles bristol circuits for MPC from circom code.
@@ -119,7 +119,7 @@ Here I tried to reference the most recent article found on specific software sin
 * [UC Compiler](https://github.com/encryptogroup/UC) ⭐ 44 | 🐛 2 | 🌐 C++ | 📅 2021-01-07 - Valiant's Universal Circuit Compiler. | [2016/093](https://eprint.iacr.org/2016/093).
 * [Summon](https://github.com/voltrevo/summon) ⚠️ Archived - A TypeScript-like language for compiling bristol circuits for MPC. Also available as an [npm module](https://www.npmjs.com/package/summon-ts).
 * [CipherCompute](https://github.com/Cosmian/CipherCompute) ⭐ 27 | 🐛 0 | 📅 2021-06-29 - Create generic MPC programs using [Rust](https://www.rust-lang.org/). Works on top of the [SCALE](https://github.com/KULeuven-COSIC/SCALE-MAMBA) ⭐ 265 | 🐛 10 | 🌐 Verilog | 📅 2026-04-22 engine. Enterprise software that provides UIs for participants handshaking, computations approval, datasources connections, auditing etc...
-* [Private Benchmarking](https://github.com/microsoft/private-benchmarking) ⚠️ Archived - Provides an End to End platform to perform Private Benchmarking using MPC and GPU-based Confidential Computing on LLMs/CNNs/Vision Models using [EzPC](https://github.com/mpc-msri/EzPC) ⭐ 451 | 🐛 63 | 🌐 C++ | 📅 2026-04-28 framework. | [eprint](https://arxiv.org/abs/2403.00393).
+* [Private Benchmarking](https://github.com/microsoft/private-benchmarking) ⚠️ Archived - Provides an End to End platform to perform Private Benchmarking using MPC and GPU-based Confidential Computing on LLMs/CNNs/Vision Models using [EzPC](https://github.com/mpc-msri/EzPC) ⭐ 452 | 🐛 63 | 🌐 C++ | 📅 2026-04-28 framework. | [eprint](https://arxiv.org/abs/2403.00393).
 * [CBMC-GC](https://gitlab.com/securityengineering/CBMC-GC-2) - Creates Boolean circuits from ANSI-C code optimized for secure computation. | [ShallowCC](https://web.archive.org/web/20180205110742/http://www.seceng.informatik.tu-darmstadt.de/assets/buescher/ShallowCC16.pdf).
 * [HyCC](https://gitlab.com/securityengineering/HyCC) - Optimizes circuits for hybrid MPC from ANSI-C. | [CCS'18](https://thomaschneider.de/papers/BDKKS18.pdf).
 
@@ -128,9 +128,9 @@ Here I tried to reference the most recent article found on specific software sin
 The software in this category has either been declared retired by the creators (including setting the repository to archived) or has not added a commit in more than two years. If the maintained repository has moved elsewhere, please file a pull request with an updated link.
 
 * [CrypTen](https://github.com/facebookresearch/CrypTen) ⚠️ Archived - MPC with secret sharing; secure against semi-honest adversary; focused on building PyTorch applications. | documentation: [link](https://crypten.ai/)
-* [Rosetta](https://github.com/LatticeX-Foundation/Rosetta/) ⭐ 551 | 🐛 6 | 🌐 C++ | 📅 2022-04-26 - 3PC with secret sharing; secure against semi-honest adversaries; focused on reusing the APIs of TensorFlow and allowing to transfer traditional TensorFlow codes into a privacy-preserving manner with minimal changes.
+* [Rosetta](https://github.com/LatticeX-Foundation/Rosetta/) ⭐ 550 | 🐛 6 | 🌐 C++ | 📅 2022-04-26 - 3PC with secret sharing; secure against semi-honest adversaries; focused on reusing the APIs of TensorFlow and allowing to transfer traditional TensorFlow codes into a privacy-preserving manner with minimal changes.
 * [ABY](https://github.com/encryptogroup/ABY) ⭐ 498 | 🐛 69 | 🌐 C++ | 📅 2026-11-11 - 2PC with secret sharing and garbled circuits; secure against semi-honest adversaries. | [NDSS'15](http://encrypto.de/papers/DSZ15.pdf).
-* [EzPC](https://github.com/mpc-msri/EzPC) ⭐ 451 | 🐛 63 | 🌐 C++ | 📅 2026-04-28 - Offers a suite of tools for secure machine learning using semi-honest MPC protocols. It includes a language for secure machine learning, compilers for TensorFlow/Onnx to various MPC protocols, and frameworks for training and inference on deep neural networks. It provides an end-to-end solution for secure machine learning. | documentation: [link](https://github.com/mpc-msri/EzPC) ⭐ 451 | 🐛 63 | 🌐 C++ | 📅 2026-04-28. End-to-End Platform: [link](https://github.com/microsoft/private-benchmarking) ⚠️ Archived
+* [EzPC](https://github.com/mpc-msri/EzPC) ⭐ 452 | 🐛 63 | 🌐 C++ | 📅 2026-04-28 - Offers a suite of tools for secure machine learning using semi-honest MPC protocols. It includes a language for secure machine learning, compilers for TensorFlow/Onnx to various MPC protocols, and frameworks for training and inference on deep neural networks. It provides an end-to-end solution for secure machine learning. | documentation: [link](https://github.com/mpc-msri/EzPC) ⭐ 452 | 🐛 63 | 🌐 C++ | 📅 2026-04-28. End-to-End Platform: [link](https://github.com/microsoft/private-benchmarking) ⚠️ Archived
 * [Tandem](https://github.com/sine-fdn/tandem) ⚠️ Archived - 2PC with garbled circuits written in Rust; secure against malicious adversaries.
 * [HoneyBadgerMPC](https://github.com/initc3/HoneyBadgerMPC) ⭐ 137 | 🐛 66 | 🌐 Python | 📅 2021-08-17 - Robust MPC-based confidentiality layer for blockchains with guaranteed output delivery; secure against up to t < n/3 malicious parties.
 * [MOTION](https://github.com/encryptogroup/MOTION) ⭐ 94 | 🐛 24 | 🌐 C++ | 📅 2023-07-20 - Mixed-Protocol MPC framework supporting full-threshold boolean and arithmetic GMW and BMR; secure against semi-honest adversaries. | eprint: [2020/1137](https://eprint.iacr.org/2020/1137).
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
