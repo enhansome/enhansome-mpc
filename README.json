@@ -46,7 +46,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T01:53:23Z",
-                "open_issues": 11,
+                "open_issues": 9,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1199,
@@ -384,7 +384,7 @@
                 "id": 73007955,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T07:00:06Z",
+                "last_commit": "2026-11-22T17:45:08Z",
                 "open_issues": 7,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:41:25.523Z",
+    "last_updated": "2026-11-23T02:00:28.133Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
