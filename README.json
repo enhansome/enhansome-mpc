@@ -102,7 +102,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T20:53:18Z",
-                "open_issues": 45,
+                "open_issues": 44,
                 "owner": "secretflow",
                 "repo": "spu",
                 "stars": 330,
@@ -130,7 +130,7 @@
                 "open_issues": 19,
                 "owner": "tlsnotary",
                 "repo": "mpz2",
-                "stars": 303,
+                "stars": 304,
                 "topics": [
                   "cryptography",
                   "garbled-circuits",
@@ -388,7 +388,7 @@
                 "open_issues": 7,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
-                "stars": 507,
+                "stars": 508,
                 "topics": [
                   "delta-ot",
                   "oblivious-transfer",
@@ -1344,7 +1344,7 @@
                 "open_issues": 1,
                 "owner": "HeikoStamer",
                 "repo": "libtmcg",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "card-game",
                   "cryptography",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:00:28.133Z",
+    "last_updated": "2026-11-24T05:35:55.560Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
