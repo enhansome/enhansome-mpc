@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
-                "stars": 1199,
+                "stars": 1200,
                 "topics": [
                   "confidential-computing",
                   "garbled-circuits",
@@ -80,7 +80,7 @@
                 "id": 222743410,
                 "language": "Sieve",
                 "license": "MIT",
-                "last_commit": "2026-11-20T17:22:39Z",
+                "last_commit": "2026-11-24T23:12:24Z",
                 "open_issues": 12,
                 "owner": "GaloisInc",
                 "repo": "swanky",
@@ -101,7 +101,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T20:53:18Z",
+                "last_commit": "2026-11-24T21:04:52Z",
                 "open_issues": 44,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -249,8 +249,8 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T02:00:33Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-24T14:48:59Z",
+                "open_issues": 7,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 74,
@@ -384,7 +384,7 @@
                 "id": 73007955,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T17:45:08Z",
+                "last_commit": "2026-11-24T23:40:15Z",
                 "open_issues": 7,
                 "owner": "osu-crypto",
                 "repo": "libOTe",
@@ -1179,7 +1179,7 @@
                 "open_issues": 24,
                 "owner": "encryptogroup",
                 "repo": "MOTION",
-                "stars": 94,
+                "stars": 95,
                 "topics": [
                   "cmake",
                   "cryptography",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:35:55.560Z",
+    "last_updated": "2026-11-25T04:37:29.578Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
@@ -1576,7 +1576,7 @@
       "open_issues": 9,
       "owner": "rdragos",
       "repo": "awesome-mpc",
-      "stars": 1997,
+      "stars": 1998,
       "topics": [
         "crypto",
         "multiparty-computation",
