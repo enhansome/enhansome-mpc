@@ -46,7 +46,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T01:53:23Z",
-                "open_issues": 9,
+                "open_issues": 11,
                 "owner": "data61",
                 "repo": "MP-SPDZ",
                 "stars": 1200,
@@ -84,7 +84,7 @@
                 "open_issues": 12,
                 "owner": "GaloisInc",
                 "repo": "swanky",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
@@ -249,8 +249,8 @@
                 "id": 898247545,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T14:48:59Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-26T15:57:32Z",
+                "open_issues": 8,
                 "owner": "Stoffel-Labs",
                 "repo": "stoffel",
                 "stars": 74,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:47:57.337Z",
+    "last_updated": "2026-11-27T03:49:14.470Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",
