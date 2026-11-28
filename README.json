@@ -702,10 +702,7 @@
                 "owner": "mozilla",
                 "repo": "libprio",
                 "stars": 80,
-                "topics": [
-                  "inactive",
-                  "unmaintained"
-                ]
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:17.936Z"
             },
@@ -795,7 +792,7 @@
                 "open_issues": 15,
                 "owner": "MPC-SoK",
                 "repo": "frameworks",
-                "stars": 520,
+                "stars": 521,
                 "topics": [
                   "cryptography",
                   "mpc",
@@ -1564,7 +1561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:49:14.470Z",
+    "last_updated": "2026-11-28T03:34:50.468Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of multi party computation resources and links.",

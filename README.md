@@ -1,7 +1,7 @@
 # awesome-mpc with stars
 
 Multiparty computation (MPC) allows several parties to jointly compute on secrets without revealing them. This list is designed to be a central place where everyone can find open-source software designed for MPC as well as introductory material to this topic.
-The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 543,510 | 🐛 103 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
+The list format is inspired from [awesome list](https://github.com/sindresorhus/awesome) ⭐ 544,006 | 🐛 103 | 📅 2026-09-02 and after a fruitful lunch discussion at [TPMPC](http://www.multipartycomputation.com/) back in 2017 in Bristol.
 
 Moreover, the list is given alphabetically and divided into categories of libraries which are actively maintained or recently developed.
 
@@ -111,7 +111,7 @@ Here I tried to reference the most recent article found on specific software sin
 
 ### Tools
 
-* [MPC-SoK](https://github.com/MPC-SoK/frameworks) ⭐ 520 | 🐛 15 | 🌐 C++ | 📅 2024-12-12 - Build environments for many MPC frameworks using Docker containers. | [S\&P19](https://marsella.github.io/static/mpcsok.pdf).
+* [MPC-SoK](https://github.com/MPC-SoK/frameworks) ⭐ 521 | 🐛 15 | 🌐 C++ | 📅 2024-12-12 - Build environments for many MPC frameworks using Docker containers. | [S\&P19](https://marsella.github.io/static/mpcsok.pdf).
 * [Tiny-Garble](https://github.com/esonghori/TinyGarble) ⭐ 130 | 🐛 0 | 🌐 C++ | 📅 2026-08-19 -  Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits. | [S\&P'15](http://aceslab.org/sites/default/files/TinyGarble.pdf).
 * [Conclave](https://github.com/multiparty/conclave) ⭐ 99 | 🐛 10 | 🌐 Python | 📅 2020-08-18 - Big Data query compiler that combines cleartext processing with Spark and MPC protocols. | [EuroSys19](https://arxiv.org/abs/1902.06288).
 * [Circom 2 Arithc](https://github.com/namnc/circom-2-arithc/) ⭐ 57 | 🐛 17 | 🌐 Rust | 📅 2024-09-12 - Compiles bristol circuits for MPC from circom code.
@@ -176,4 +176,4 @@ To the extent possible under law, Dragoș Rotaru has waived all copyright and re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
